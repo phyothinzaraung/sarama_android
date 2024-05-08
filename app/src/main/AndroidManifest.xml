@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.koekoetech.sayarma"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="LockedOrientationActivity">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+
+    <application
+        android:name="com.koekoetech.sayarma.app.SARAMA"
+        android:requestLegacyExternalStorage="true"
+        android:icon="@mipmap/app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <service android:name="com.koekoetech.sayarma.service.MyFirebaseMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+
+        <activity
+            android:name=".activity.SplashActivity"
+            android:screenOrientation="portrait"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.LanguageActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.LoginActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"/>
+        <activity
+            android:name=".activity.ServiceHotlineActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.CourseSectionActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.SettingActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.ProfileActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.LocationActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.ChaptersActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.PhotoViewActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.SavedArticlesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.SubChaptersActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.NewsFeedDetailsActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.UsefulAppActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.WomenWellnessActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.WomenWellnessDetailActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".activity.CardListActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.QuestionAnswerActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.CurriculumActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.CurriculumChapterActivity"
+            android:screenOrientation="portrait"/>
+        <activity android:name=".activity.CurriculumSubchapterActivity"
+            android:screenOrientation="portrait"/>
+    </application>
+
+</manifest>

@@ -1,0 +1,68 @@
+apply plugin: 'com.android.application'
+apply plugin: 'realm-android'
+apply plugin: 'com.google.gms.google-services'
+
+android {
+    compileSdkVersion 31
+    defaultConfig {
+        applicationId "com.koekoetech.sayarma"
+        minSdkVersion 21
+        targetSdkVersion 31
+        versionCode 2
+        versionName "1.1"
+        multiDexEnabled true
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    //noinspection GradleCompatible
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.3'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
+    //Android Test
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    // Multidex Enable
+    implementation 'androidx.multidex:multidex:2.0.1'
+    //recyclerview
+    implementation 'androidx.recyclerview:recyclerview:1.2.1'
+    //Third Party UI Library
+    implementation 'de.hdodenhof:circleimageview:3.1.0'
+    implementation 'org.sufficientlysecure:html-textview:3.6'
+    implementation 'io.realm:android-adapters:3.1.0'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    implementation 'com.github.chrisbanes:PhotoView:2.3.0'
+    implementation 'com.nineoldandroids:library:2.4.0'
+    implementation 'com.daimajia.slider:library:1.1.5@aar'
+    implementation 'com.evernote:android-job:1.3.0-rc1'
+    implementation 'com.github.smarteist:autoimageslider:1.4.0'
+    //Retrofit Networking Library
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    //Map Box Library
+    implementation 'com.mapbox.mapboxsdk:mapbox-android-sdk:7.2.0'
+    implementation 'it.sephiroth.android.library.picasso:picasso:2.5.2.4b'
+    //iOS Switch
+    implementation 'com.github.luongvo:iOS-SwitchView:1.0.0'
+    //firebase
+    implementation 'com.google.firebase:firebase-core:20.1.0'
+    implementation 'com.google.firebase:firebase-messaging:23.0.0'
+
+    implementation 'com.zsoltsafrany:needle:1.0.0'
+    implementation 'net.lingala.zip4j:zip4j:2.9.0'
+}

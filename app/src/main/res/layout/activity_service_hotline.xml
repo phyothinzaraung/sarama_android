@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ServiceHotlineActivity"
+    android:orientation="vertical"
+    android:background="@color/colorFragment_bg">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:layout_behavior="com.phyothinzaraung.dailyplanner.helper.FixAppBarLayoutBehavior"
+        tools:ignore="MissingConstraints">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar_scrollable"/>
+
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewUNDPPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="@dimen/margin_4dp"
+        app:cardElevation="@dimen/margin_2dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:layout_marginLeft="@dimen/margin_8dp"
+        android:layout_marginRight="@dimen/margin_8dp"
+        android:layout_marginTop="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_4dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:focusable="true"
+        android:clickable="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_8dp">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imgUNFPA1"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/app_icon" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/imgUNFPA1"
+                android:layout_toStartOf="@+id/btnCallLawCenter"
+                android:orientation="vertical"
+                android:layout_marginEnd="@dimen/margin_8dp"
+                android:layout_centerInParent="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="UNDP Rule of Law Centers"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txt_size_normal"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/txtUNDPPhone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="-"
+                    android:textColor="@color/colorPrimaryText"
+                    android:layout_marginTop="@dimen/margin_10dp"
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/btnCallLawCenter"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardCornerRadius="@dimen/margin_8dp"
+                app:cardElevation="@dimen/margin_2dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp">
+
+                <ImageView
+                    android:layout_width="@dimen/image_size_40dp"
+                    android:layout_height="@dimen/image_size_40dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/phone"
+                    tools:ignore="ContentDescription" />
+
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewAkhayaPhone1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="@dimen/margin_4dp"
+        app:cardElevation="@dimen/margin_2dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:layout_marginTop="@dimen/margin_4dp"
+        android:layout_marginLeft="@dimen/margin_8dp"
+        android:layout_marginRight="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_4dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:focusable="true"
+        android:clickable="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_8dp">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imgUNFPA2"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/app_icon" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/imgUNFPA2"
+                android:layout_toStartOf="@+id/btnCallAkhaya"
+                android:orientation="vertical"
+                android:layout_marginEnd="@dimen/margin_8dp"
+                android:layout_centerInParent="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Akhaya GBV Hotline (1)"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txt_size_normal"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/txtAkhayaPhone1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="09786371055"
+                    android:textColor="@color/colorPrimaryText"
+                    android:layout_marginTop="@dimen/margin_10dp"
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/btnCallAkhaya"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardCornerRadius="@dimen/margin_8dp"
+                app:cardElevation="@dimen/margin_2dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp">
+
+                <ImageView
+                    android:id="@+id/imgAkhayaPhone1"
+                    android:layout_width="@dimen/image_size_40dp"
+                    android:layout_height="@dimen/image_size_40dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/phone"
+                    tools:ignore="ContentDescription" />
+
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewAkhayaPhone2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="@dimen/margin_4dp"
+        app:cardElevation="@dimen/margin_2dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:layout_marginTop="@dimen/margin_4dp"
+        android:layout_marginLeft="@dimen/margin_8dp"
+        android:layout_marginRight="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_4dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:focusable="true"
+        android:clickable="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_8dp">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imgUNFPA3"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/app_icon" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/imgUNFPA3"
+                android:layout_toStartOf="@+id/btnCallAkhaya2"
+                android:orientation="vertical"
+                android:layout_marginEnd="@dimen/margin_8dp"
+                android:layout_centerInParent="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Akhaya GBV Hotline (2)"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txt_size_normal"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/txtAkhayaPhone2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="09795706265"
+                    android:textColor="@color/colorPrimaryText"
+                    android:layout_marginTop="@dimen/margin_10dp"
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/btnCallAkhaya2"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardCornerRadius="@dimen/margin_8dp"
+                app:cardElevation="@dimen/margin_2dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp">
+
+                <ImageView
+                    android:id="@+id/imgAkhayaPhone2"
+                    android:layout_width="@dimen/image_size_40dp"
+                    android:layout_height="@dimen/image_size_40dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/phone"
+                    tools:ignore="ContentDescription" />
+
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewLegalAidPhone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="@dimen/margin_4dp"
+        app:cardElevation="@dimen/margin_2dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:layout_marginTop="@dimen/margin_4dp"
+        android:layout_marginLeft="@dimen/margin_8dp"
+        android:layout_marginRight="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_8dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:focusable="true"
+        android:clickable="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_8dp">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imgUNFPA4"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/app_icon" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/imgUNFPA4"
+                android:layout_toStartOf="@+id/btnCallLegal"
+                android:orientation="vertical"
+                android:layout_marginEnd="@dimen/margin_8dp"
+                android:layout_centerInParent="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Legal aid hotline"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txt_size_normal"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/txtLegalAidPhone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="09454121430"
+                    android:textColor="@color/colorPrimaryText"
+                    android:layout_marginTop="@dimen/margin_10dp"
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/btnCallLegal"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardCornerRadius="@dimen/margin_8dp"
+                app:cardElevation="@dimen/margin_2dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp">
+
+                <ImageView
+                    android:layout_width="@dimen/image_size_40dp"
+                    android:layout_height="@dimen/image_size_40dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/phone"
+                    tools:ignore="ContentDescription" />
+
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewDswHelpLine1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="@dimen/margin_4dp"
+        app:cardElevation="@dimen/margin_2dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:layout_marginTop="@dimen/margin_4dp"
+        android:layout_marginLeft="@dimen/margin_8dp"
+        android:layout_marginRight="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_8dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:focusable="true"
+        android:clickable="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_8dp">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imgUNFPA5"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/app_icon" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/imgUNFPA5"
+                android:layout_toStartOf="@+id/btnDswHelpLine1"
+                android:orientation="vertical"
+                android:layout_marginEnd="@dimen/margin_8dp"
+                android:layout_centerInParent="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="DSW Help Line"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txt_size_normal"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/txtDswHelpLine1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="0673404222"
+                    android:textColor="@color/colorPrimaryText"
+                    android:layout_marginTop="@dimen/margin_10dp"
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/btnDswHelpLine1"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardCornerRadius="@dimen/margin_8dp"
+                app:cardElevation="@dimen/margin_2dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp">
+
+                <ImageView
+                    android:layout_width="@dimen/image_size_40dp"
+                    android:layout_height="@dimen/image_size_40dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/phone"
+                    tools:ignore="ContentDescription" />
+
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardViewDswHelpLine2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="@dimen/margin_4dp"
+        app:cardElevation="@dimen/margin_2dp"
+        app:cardPreventCornerOverlap="true"
+        app:cardUseCompatPadding="true"
+        android:layout_marginTop="@dimen/margin_4dp"
+        android:layout_marginLeft="@dimen/margin_8dp"
+        android:layout_marginRight="@dimen/margin_8dp"
+        android:layout_marginBottom="@dimen/margin_8dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:focusable="true"
+        android:clickable="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/margin_8dp">
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/imgUNFPA6"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp"
+                android:scaleType="centerCrop"
+                android:src="@mipmap/app_icon" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toEndOf="@+id/imgUNFPA6"
+                android:layout_toStartOf="@+id/btnDswHelpLine2"
+                android:orientation="vertical"
+                android:layout_marginEnd="@dimen/margin_8dp"
+                android:layout_centerInParent="true">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="DSW Help Line"
+                    android:textColor="@color/colorPrimaryText"
+                    android:textSize="@dimen/txt_size_normal"
+                    tools:ignore="HardcodedText" />
+
+                <TextView
+                    android:id="@+id/txtDswHelpLine2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="0673404999"
+                    android:textColor="@color/colorPrimaryText"
+                    android:layout_marginTop="@dimen/margin_10dp"
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/btnDswHelpLine2"
+                android:layout_width="@dimen/image_size_60dp"
+                android:layout_height="@dimen/image_size_60dp"
+                app:cardBackgroundColor="@color/colorPrimary"
+                app:cardCornerRadius="@dimen/margin_8dp"
+                app:cardElevation="@dimen/margin_2dp"
+                app:cardPreventCornerOverlap="true"
+                app:cardUseCompatPadding="true"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="@dimen/margin_10dp"
+                android:layout_marginEnd="@dimen/margin_10dp">
+
+                <ImageView
+                    android:layout_width="@dimen/image_size_40dp"
+                    android:layout_height="@dimen/image_size_40dp"
+                    android:layout_gravity="center"
+                    android:src="@drawable/phone"
+                    tools:ignore="ContentDescription" />
+
+            </androidx.cardview.widget.CardView>
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</LinearLayout>

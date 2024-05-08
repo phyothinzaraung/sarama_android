@@ -1,0 +1,81 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Sarama</string>
+
+    <!-- Facebook Account Kit -->
+    <string name="FACEBOOK_APP_ID">2089330177824795</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">0d33ae40902e3b107b4d628299d90f52</string>
+    <string name="ak_login_protocol_scheme">ak0d33ae40902e3b107b4d628299d90f52</string>
+
+    <string name="lbl_username_hint">Username</string>
+    <string name="lbl_password_hint">Password</string>
+    <string name="lbl_login">Login</string>
+    <string name="lbl_name_hint">Name</string>
+    <string name="lbl_dob_hint">DOB(dd/mm/yyyy)</string>
+    <string name="lbl_phone_number_hint">Phone Number</string>
+    <string name="lbl_save">Save</string>
+
+    <string name="lbl_divider">|</string>
+    <string name="lbl_no_article">No article is available</string>
+
+    <string name="title_courses">Collection of Courses</string>
+    <string name="description_courses">Develop a passion of learning. If you do, you will never cease to grow.</string>
+    <string name="btn_courses">START NOW</string>
+    
+    <string name="label_service_hotline">Service Hotline</string>
+    <string name="label_saved_articles">Saved Articles</string>
+    <string name="label_women_wellness">Women\'s Wellness</string>
+    <string name="label_useful_apps">Useful Apps</string>
+    <string name="label_curriculum">Curriculum</string>
+    <string name="label_story_telling">Story Telling</string>
+
+    <string name="label_experience_level">Experience Level</string>
+    <string name="label_level">Level</string>
+    <string name="label_intro_level">Introduction to Electronice devices</string>
+    <string name="label_level_one">Level 1 - Apps and Programs</string>
+    <string name="label_level_two">Level 2 - Digital Literacy</string>
+
+    <string name="label_or_separator">/</string>
+    <string name="label_completed">Completed</string>
+
+    <string name="label_profile">Profile</string>
+    <string name="label_notification">Notification</string>
+    <string name="label_sound">Sound</string>
+    <string name="label_location">Location</string>
+    <string name="label_language">Language</string>
+    <string name="label_synchronization">Synchronization</string>
+    <string name="label_logout">Logout</string>
+
+    <string name="label_maymay">May May</string>
+    <string name="label_lanpya">Lan Pya</string>
+
+    <string name="label_ok">OK</string>
+    <string name="label_cancel">Cancel</string>
+
+    <string name="label_learn">ေလ့လာမည္</string>
+
+    <string name="label_connection_error">Connection Error</string>
+    <string name="label_retry">Retry</string>
+
+    <!-- Menu Titles -->
+    <string name="menu_settings">Settings</string>
+
+    <!-- Map Access Token -->
+    <string name="map_access_token">pk.eyJ1Ijoia29la29ldGVjaCIsImEiOiJjanQ2bmlzNHcwajBqNDVxemE0ZjIyZHk5In0.soEzUL3eT_YBIgKdGXJI4A</string>
+    <string name="user_location_permission_explanation">user location permission explanation.</string>
+    <string name="user_location_permission_not_granted">user location permission not granted.</string>
+
+    <string name="txt_sample_text">သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ်ဎနဆေးညွှန်းစာကို
+         ဇလွန်ဈေးဘေးဗာဒံပင်ထက် အဓိဋ္ဌာန်လျက်
+        သီဟိုဠ်မှ ဉာဏ်ကြီးရှင်သည် အာယုဝဍ်ဎနဆေးညွှန်းစာကို
+         ဇလွန်ဈေးဘေးဗာဒံပင်ထက် အဓိဋ္ဌာန်လျက်
+    </string>
+
+    <string name="label_like">Like</string>
+    <string name="label_save">Save</string>
+    <string name="label_divider">\u0020\u0020|\u0020\u0020</string>
+    <string name="label_download">Download</string>
+
+    <string name="language_myanmar">Myanmar</string>
+    <string name="language_english">English</string>
+
+</resources>

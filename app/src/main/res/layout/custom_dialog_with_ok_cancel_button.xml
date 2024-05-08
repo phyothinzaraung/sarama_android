@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cv_item_home"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardBackgroundColor="@color/white"
+    card_view:cardCornerRadius="@dimen/margin_4dp"
+    card_view:cardElevation="@dimen/margin_2dp"
+    card_view:contentPadding="0dp">
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/margin_16dp">
+
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/img_icon"
+            android:layout_width="@dimen/image_size_80dp"
+            android:layout_height="@dimen/image_size_80dp"
+            android:layout_marginBottom="@dimen/margin_20dp"
+            android:src="@mipmap/girl" />
+
+        <com.koekoetech.sayarma.custom_control.MyanTextView
+            android:id="@+id/tv_message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="@dimen/margin_20dp"
+            tools:text="Sample text"
+            android:textAlignment="center"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/txt_size_large" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <com.koekoetech.sayarma.custom_control.MyanButton
+                android:id="@+id/btn_ok"
+                android:layout_width="@dimen/margin_130dp"
+                android:layout_height="@dimen/margin_32dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginEnd="@dimen/margin_32dp"
+                android:background="@drawable/button_quizz_background"
+                android:paddingStart="@dimen/margin_20dp"
+                android:paddingEnd="@dimen/margin_20dp"
+                android:text="@string/label_ok"
+                android:textColor="@color/white"
+                android:textSize="@dimen/txt_size_small"
+                android:stateListAnimator="@null"
+                />
+
+            <com.koekoetech.sayarma.custom_control.MyanButton
+                android:id="@+id/btn_cancel"
+                android:layout_width="@dimen/margin_130dp"
+                android:layout_height="@dimen/margin_32dp"
+                android:layout_gravity="center_horizontal"
+                android:background="@drawable/button_dialog_cancel_bg"
+                android:paddingStart="@dimen/margin_20dp"
+                android:paddingEnd="@dimen/margin_20dp"
+                android:text="@string/label_cancel"
+                android:textColor="@color/colorTextColorPrimary"
+                android:textSize="@dimen/txt_size_small"
+                android:stateListAnimator="@null"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+</androidx.cardview.widget.CardView>

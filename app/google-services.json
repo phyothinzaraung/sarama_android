@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607016741096",
+    "firebase_url": "https://sayarma-f1a47.firebaseio.com",
+    "project_id": "sayarma-f1a47",
+    "storage_bucket": "sayarma-f1a47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607016741096:android:a6ccc3fa04c2294d",
+        "android_client_info": {
+          "package_name": "com.koekoetech.sayarma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607016741096-3abeaumq90asjpj9ofrrabj7j45duu3a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7bVixI229ihhhSlHvbo3tGm0ZahqfDik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607016741096-3abeaumq90asjpj9ofrrabj7j45duu3a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2926 @@
+﻿{
+  "levels": [
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "Title": "အီလက်ထရောနစ်ပစ္စည်းများနှင့် မိတ်ဆက်ခြင်း",
+      "ShortTitle": "Introduction",
+      "Audio": "ChapterSample.mp3",
+      "ChapterType": "ChapterTypeSample",
+      "isDeleted": false,
+      "CreatedDate": "2019-05-23T09:48:03.09",
+      "Createdby": "e573ce8c-029b-46fc-bbf4-2e831724bb99",
+      "UpdatedDate": "2019-05-27T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "Title": "အဆင့် (၁) အက်ပလီကေးရှင်းများနှင့် မိတ်ဆက်ခြင်း",
+      "ShortTitle": "Level 1",
+      "Audio": "Chaptertwo.mp3",
+      "ChapterType": "c",
+      "isDeleted": false,
+      "CreatedDate": "2019-05-27T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "Title": "အဆင့်(၂) သတင်းအချက်အလက်များကို သုံးသပ်ခြင်း နည်းလမ်းများ",
+      "ShortTitle": "Level 2",
+      "Audio": "Chapterone.mp3",
+      "ChapterType": "C",
+      "isDeleted": false,
+      "CreatedDate": "2019-05-27T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-07-03T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    }
+  ],
+  "chapters": [
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Title": "မိုဘိုင်းလ်ဖုန်းရဲ့ အဓိကလုပ်ဆောင်ချက်များ",
+      "Content": null,
+      "Audio": "Level1_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Title": "မျက်မှောက်ခေတ် သတင်းအမှား ပြဿနာ",
+      "Content": null,
+      "Audio": "Level2_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-05T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "eac4768a-6a90-428d-946d-e52e794cc356",
+      "Title": "မိုဘိုင်းလ်ဖုန်းဆိုတာ ဘာလဲ",
+      "Content": null,
+      "Audio": "Intro_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "a9c06b31-9d80-4cc2-b9fb-927a48d456a1",
+      "Title": "သုံးစွဲသူများ ကိုယ်တိုင်ဖန်တီးရေးသားနိုင်သော အွန်လိုင်းဝန်ဆောင်မှုများနှင့် သတင်းအမှားများအပေါ် ၎င်းတို့၏ သက်ရောက်မှု",
+      "Content": null,
+      "Audio": "Level2_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "7b020a40-86e9-42df-8a16-c6b286d18b14",
+      "Title": "တက်ဘလက် ဆိုတာဘာလဲ ",
+      "Content": null,
+      "Audio": "Intro_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "47f36b17-f230-405f-985d-0b1a147dca95",
+      "Title": "မိုဘိုင်းလ်ဖုန်းနဲ့ ဘာတွေ ထပ်လုပ်လို့ရသေးလဲ",
+      "Content": null,
+      "Audio": "Level1_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "fc022b80-6475-4c4d-b464-5356c10345ad",
+      "Title": "အရေးပေါ်အခြေအနေများတွင် သတင်းရယူမှုများ",
+      "Content": null,
+      "Audio": "Level2_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "99c6f719-55a6-4c3d-99c2-f9facb779a4b",
+      "Title": "ဖုန်းထဲမှ ပြုပြင်ပြောင်းလဲလို့ရသော အခြား ဆက်တင်များ ",
+      "Content": null,
+      "Audio": "Level1_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "476f206e-e61c-4f47-943e-e2d4ae467e4b",
+      "Title": "မိုဘိုင်းလ်နဲ့ တက်ဘလက် ဘာတွေကွာခြားလဲ ",
+      "Content": null,
+      "Audio": "Intro_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "08137c03-ef48-4074-bad6-7704a7f7f99c",
+      "Title": "ဝက်(ဘ်)ဘရောက်စာ (Web Browser) ဆိုတာ ဘာလဲ",
+      "Content": null,
+      "Audio": "Level1_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "9b49bd20-dfd7-4614-a2be-08e3db7e6109",
+      "Title": "ဖုန်းတွင် ပါဝင်သော ခလုတ်များနှင့် ထိုခလုတ်များ၏ အလုပ်လုပ်ပုံများ",
+      "Content": null,
+      "Audio": "Intro_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "18af2eb8-1531-4ed3-b615-39f15c7c4f42",
+      "Title": "စီစစ်ခြင်း နည်းလမ်းများ",
+      "Content": null,
+      "Audio": "Level2_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "3ac78bb2-79cc-45cb-9fc8-39abd8c50f68",
+      "Title": "ဓါတ်ပုံများကို စီစစ်ခြင်း နည်းလမ်းများ",
+      "Content": null,
+      "Audio": "Level2_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "b7f92b3e-aa1a-424a-902e-59b083d71d08",
+      "Title": "စက်(ချ်) အင်ဂျင် (Search Engine) ဆိုတာ ဘာလဲ",
+      "Content": null,
+      "Audio": "Level1_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "94088cb9-4c95-4f9b-855f-61ac023dc466",
+      "Title": "ဖုန်းမျက်နှာပြင်ပေါ်မှာ လှုပ်ရှားမှုများပြုလုပ်ခြင်း ",
+      "Content": null,
+      "Audio": "Intro_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "f1635ec7-c6ef-420f-b893-add092c3f8b9",
+      "Title": "ဂျီမေးလ် ဆိုတာ ဘာလဲ",
+      "Content": null,
+      "Audio": "Level1_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "5b6078c4-ddfa-4e9e-af3b-e96c282ed695",
+      "Title": "ဗီဒီယိုများကို စီစစ်ခြင်း",
+      "Content": null,
+      "Audio": "Level2_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "745893cd-a1ec-4b22-b58a-215d25be5b18",
+      "Title": "သတိပေး/ အချက်ပေးတဲ့ ဘားတန်း - နိုတီဖီကေးရှင်း ဘားတန်း",
+      "Content": null,
+      "Audio": "Intro_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "532a9c55-28ab-4d7e-b591-23291aca1798",
+      "Title": "စီစစ်ကြည့်ခြင်း",
+      "Content": null,
+      "Audio": "Level2_7.mp3",
+      "OrderingID": 7,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "46df6084-6d69-460f-aa5e-500d27213813",
+      "Title": "အက်ပလီကေးရှင်းများ",
+      "Content": null,
+      "Audio": "Intro_7.mp3",
+      "OrderingID": 7,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "21f5bc79-12fd-424f-9aae-d0f2238d7f41",
+      "Title": "Communication App တွေကို ဘယ်လို သုံးမလဲ",
+      "Content": null,
+      "Audio": "Level1_7.mp3",
+      "OrderingID": 7,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "2bf5a7a0-8e41-4f69-8894-d6a2fbef82ba",
+      "Title": "ပရိုဂရမ်တွေဆိုတာ ဘာတွေလဲ",
+      "Content": null,
+      "Audio": "Level1_8.mp3",
+      "OrderingID": 8,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "29afb6a7-c4ff-418b-a1dc-78c670eab105",
+      "Title": "လူမှုကွန်ယက်အသုံးပြု၍ နှောင့်ယှက်ခြင်း - ဆိုက်ဘာ တိုက်ခိုက်မှု",
+      "Content": null,
+      "Audio": "Level2_8.mp3",
+      "OrderingID": 8,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-09-23T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "1d822e63-5f3d-4847-8d14-46d45ad10024",
+      "Title": "ဖုန်းတွင်အဆင်သင့်ပါသော အက်ပလီကေးရှင်းများ",
+      "Content": null,
+      "Audio": "Intro_8.mp3",
+      "OrderingID": 8,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "def0beb5-1b39-459f-8fd9-04e91c1c38fa",
+      "Title": "ပရိုဂရမ်တွေ ထည့်သွင်း/ဖယ်ရှားခြင်း",
+      "Content": null,
+      "Audio": "Level1_9.mp3",
+      "OrderingID": 9,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-12T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "cb8cc3f7-1ef4-4e03-8691-8adfad6aea89",
+      "Title": "လမ်းပြ (Lann Pya) အက်ပလီကေးရှင်း",
+      "Content": null,
+      "Audio": "Level2_9.mp3",
+      "OrderingID": 9,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "3785472d-3c2e-4b0b-8041-b9f19d6b9abc",
+      "Title": "လက်(ပ်)တော့ ဆိုတာက ဘာလဲ ",
+      "Content": null,
+      "Audio": "Intro_9.mp3",
+      "OrderingID": 9,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "1e7ec8fd-cb4b-4a1d-8955-fd595e17f707",
+      "Title": "မေမေ (May May) အက်ပလီကေးရှင်း",
+      "Content": null,
+      "Audio": "Level2_10.mp3",
+      "OrderingID": 10,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-07T00:00:00",
+      "Createdby": "6ac46721-6903-45d7-98ee-99e2dd933de7",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "0fed9593-63d8-40c7-b90c-0ca18d4ef1eb",
+      "Title": "လက်(ပ်)တော့ရဲ့ အစိတ်အပိုင်းများ",
+      "Content": null,
+      "Audio": "Intro_10.mp3",
+      "OrderingID": 10,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "ccfc1b3f-efe9-4fd4-8a19-b6ef9b317975",
+      "Title": "လက်(ပ်)တော့ပေါ်မှ လှုပ်ရှားမှုများ",
+      "Content": null,
+      "Audio": "Intro_11.mp3",
+      "OrderingID": 11,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-04T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "7a96b30a-9931-423f-a8ce-271523644c06",
+      "Title": "လက်(ပ်)တော့ အခြေခံ အသုံးပြုခြင်း",
+      "Content": null,
+      "Audio": "Intro_12.mp3",
+      "OrderingID": 12,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-05T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "495113d0-5040-4e05-ad06-1520e20f53d3",
+      "Title": "မမ်မိုရီ စတစ်အသုံးပြုပြီး ဖိုင်များကို မျှဝေခြင်း",
+      "Content": null,
+      "Audio": "Intro_13.mp3",
+      "OrderingID": 13,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-05T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "cc1c1398-577c-4949-9c02-598df0657769",
+      "Title": "ဝိုင်ဖိုင် (Wifi) ",
+      "Content": null,
+      "Audio": "Intro_14.mp3",
+      "OrderingID": 14,
+      "isDeleted": null,
+      "CreatedDate": "2019-07-05T00:00:00",
+      "Createdby": "97a7078a-c893-4234-ab00-ce7691ed9c80",
+      "UpdatedDate": "2019-08-20T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    }
+  ],
+  "subChapters": [
+    {
+      "SubChapterID": "f5e5062f-d849-4f9b-81f2-106402737bf2",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "7a96b30a-9931-423f-a8ce-271523644c06",
+      "Content": "စတက်မီနူး (Start Menu)",
+      "TitleAudio": "35_CT_Intro.mp3",
+      "Audio": "Introduction_No_12_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "8803d080-f722-4ac0-bc7d-26bba233dab0",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "476f206e-e61c-4f47-943e-e2d4ae467e4b",
+      "Content": "မိုဘိုင်း နှင့် တက်ဘလက်",
+      "TitleAudio": "7_CT_Intro.mp3",
+      "Audio": "Introduction_No_3_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "c3499fe5-43de-40a9-802c-287fc00dd438",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "495113d0-5040-4e05-ad06-1520e20f53d3",
+      "Content": "မမ်မိုရီ စတစ်အသုံးပြုပြီး ဖိုင်များကို မျှဝေခြင်း",
+      "TitleAudio": "44_CT_Intro.mp3",
+      "Audio": "Introduction_No_13_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-22T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "9705a14a-26db-49db-af55-29c7b8bca82f",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "47f36b17-f230-405f-985d-0b1a147dca95",
+      "Content": "မိုဘိုင်းဖုန်းနဲ့ ဘာတွေ ထပ်လုပ်လို့ရသေးလဲ",
+      "TitleAudio": "12_CT_L1.mp3",
+      "Audio": "Level1_No_2_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "4293a668-f77f-4eca-b835-2cdd2e17eb86",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "eac4768a-6a90-428d-946d-e52e794cc356",
+      "Content": "မိုဘိုင်းလ်ဖုန်းဆိုတာ ဘာလဲ",
+      "TitleAudio": "1_CT_Intro.mp3",
+      "Audio": "Introduction_No_1_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "aeb13603-3f84-4c99-a4fb-318625667e81",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "29afb6a7-c4ff-418b-a1dc-78c670eab105",
+      "Content": "ဆိုက်ဘာတိုက်ခိုက်မှုဆိုတာဘာလဲ ",
+      "TitleAudio": "34_CT_Level2.mp3",
+      "Audio": "Level2_No_8_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "5c9d7725-0114-4ec4-bf1e-345f6ff2162e",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "3ac78bb2-79cc-45cb-9fc8-39abd8c50f68",
+      "Content": "ဓါတ်ပုံရိုက်သူ/မူလတင်သူကို ရှာပါ",
+      "TitleAudio": "22_CT_Level2.mp3",
+      "Audio": "Level2_No_5_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-23T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "8b4cf1cc-296b-445b-b226-36ef3c7d24e3",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "18af2eb8-1531-4ed3-b615-39f15c7c4f42",
+      "Content": "ဓါတ်ပုံများကို စီစစ်ခြင်း",
+      "TitleAudio": "18_CT_Level2.mp3",
+      "Audio": "Level2_No_4_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "db4a90b7-cd7c-4479-b74c-3f019f6aa8c5",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "ccfc1b3f-efe9-4fd4-8a19-b6ef9b317975",
+      "Content": "တို့ထိခိုင်းစေခြင်း (Touch)",
+      "TitleAudio": "40_CT_Intro.mp3",
+      "Audio": "Introduction_No_11_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "8aa17a13-df9c-42ea-be46-437f4b45cae2",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "1d822e63-5f3d-4847-8d14-46d45ad10024",
+      "Content": "ဖုန်းအသစ်ထဲမှ အက်ပလီကေးရှင်းများ",
+      "TitleAudio": "22_CT_Intro.mp3",
+      "Audio": "Introduction_No_8_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "75171986-a223-4b24-8811-629f9242cefe",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "08137c03-ef48-4074-bad6-7704a7f7f99c",
+      "Content": "၀က်(ဘ်)ဘရောက်စာ (Web Browser) ဆိုတာ ဘာလဲ",
+      "TitleAudio": "29_CT_L1.mp3",
+      "Audio": "Level1_No_4_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "6ecb5bde-40dd-4b18-b4e5-73ceb33531e6",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "cc1c1398-577c-4949-9c02-598df0657769",
+      "Content": "ဝိုင်ဖိုင် ဆိုတာဘာလဲ",
+      "TitleAudio": "38_CT_Intro.mp3",
+      "Audio": "Introduction_No_14_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "f84495cc-24d9-4010-bf4a-77e4f2509002",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "99c6f719-55a6-4c3d-99c2-f9facb779a4b",
+      "Content": "ဖုန်းထဲမှ ပြုပြင်ပြောင်းလဲလို့ရသော အခြားဆက်တင်များ",
+      "TitleAudio": "28_CT_L1.mp3",
+      "Audio": "Level1_No_3_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-27T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "5ed3af19-90be-48c2-a06b-782c1c285c8c",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "5b6078c4-ddfa-4e9e-af3b-e96c282ed695",
+      "Content": "သတင်းနှင့် ဗီဒီယိုများ စပ်ဆက်မှု",
+      "TitleAudio": "27_CT_Level2.mp3",
+      "Audio": "Level2_No_6_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "b5c19d67-20b7-4844-95b4-812115333ec3",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "21f5bc79-12fd-424f-9aae-d0f2238d7f41",
+      "Content": "Viber",
+      "TitleAudio": "20_CT_L1.mp3",
+      "Audio": "Level1_No_7_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "61d37f81-a1ab-41f9-a015-8a3e1545411e",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "9b49bd20-dfd7-4614-a2be-08e3db7e6109",
+      "Content": "ခလုတ်များ",
+      "TitleAudio": "11_CT_Intro.mp3",
+      "Audio": "Introduction_No_4_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "faa1d36a-a384-4dfd-a16e-8bb864380164",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "0fed9593-63d8-40c7-b90c-0ca18d4ef1eb",
+      "Content": "လက်(ပ်)တော့ ဖွဲ့စည်းပုံ",
+      "TitleAudio": "29_CT_Intro.mp3",
+      "Audio": "Introduction_No_10_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "de0b602f-244b-411d-8a7e-91e4d3a5da43",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "b7f92b3e-aa1a-424a-902e-59b083d71d08",
+      "Content": "စက်(ချ်) အင်ဂျင် (Search Engine) ဆိုတာ ဘာလဲ",
+      "TitleAudio": "30_CT_L1.mp3",
+      "Audio": "Level1_No_5_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-22T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "babad9ea-2e1c-47a7-b396-927905c847eb",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "94088cb9-4c95-4f9b-855f-61ac023dc466",
+      "Content": "ဘာတွေလုပ်လို့ရလဲ",
+      "TitleAudio": "16_CT_Intro.mp3",
+      "Audio": "Introduction_No_5_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "941806c8-ca3d-4a54-ac06-932774a3c6c6",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "မိုဘိုင်းဖုန်းသုံးပြီး ဘယ်လိုဆက်သွယ်မလဲ",
+      "TitleAudio": "1_CT_L1.mp3",
+      "Audio": "Level1_No_1_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "6ef4c336-02d3-43e6-a47d-95e756ed5f53",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "3785472d-3c2e-4b0b-8041-b9f19d6b9abc",
+      "Content": "လက်(ပ်)တော့အကြောင်း",
+      "TitleAudio": "27_CT_Intro.mp3",
+      "Audio": "Introduction_No_9_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "5b2b0fd6-e66f-4dee-9b9f-a2ef8fcb3c2d",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "fc022b80-6475-4c4d-b464-5356c10345ad",
+      "Content": "အရေးပေါ်အခြေအနေနှင့်ပြောင်းလဲမှုဖြစ်စဉ်",
+      "TitleAudio": "12_CT_Level2.mp3",
+      "Audio": "Level2_No_3_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "5a75e6ad-d743-4105-b537-a64dfad0078d",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "745893cd-a1ec-4b22-b58a-215d25be5b18",
+      "Content": "အချက်ပေးတဲ့ ဘားတန်းဆိုတာဘာလဲ",
+      "TitleAudio": "19_CT_Intro.mp3",
+      "Audio": "Introduction_No_6_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "8ed23a01-0895-4c88-a12b-b37c16909da4",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "46df6084-6d69-460f-aa5e-500d27213813",
+      "Content": "အက်ပလီကေးရှင်းများ",
+      "TitleAudio": "20_CT_Intro.mp3",
+      "Audio": "Introduction_No_7_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "4f55d86c-d6ab-491a-9bb6-b89e5c25057e",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "1e7ec8fd-cb4b-4a1d-8955-fd595e17f707",
+      "Content": "မိတ်ဆက်",
+      "TitleAudio": "49_CT_Level2.mp3",
+      "Audio": "Level2_No_10_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "f2ea1082-94b4-4404-9ad2-b9db640c3e71",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Content": "မိတ်ဆက်",
+      "TitleAudio": "51_CT_Level2.mp3",
+      "Audio": "Level2_No_1_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "adfd1969-ba0d-46ae-b3b3-be1ad92b1629",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "def0beb5-1b39-459f-8fd9-04e91c1c38fa",
+      "Content": "ပရိုဂရမ်တွေကို ဘယ်လိုသွင်းမလဲ",
+      "TitleAudio": "26_CT_L1.mp3",
+      "Audio": "Level1_No_9_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "893caa16-0a3a-4d49-b4cd-d4b7051d90dd",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "2bf5a7a0-8e41-4f69-8894-d6a2fbef82ba",
+      "Content": "ပရိုဂရမ်တွေအကြောင်း",
+      "TitleAudio": "24_CT_L1.mp3",
+      "Audio": "Level1_No_8_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "8ed8b819-7b53-498e-84b7-dbdadbcfb538",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "532a9c55-28ab-4d7e-b591-23291aca1798",
+      "Content": "Google Image Reverse Search ဖြင့် ဓါတ်ပုံစီစစ်ခြင်း",
+      "TitleAudio": "31_CT_Level2.mp3",
+      "Audio": "Level2_No_7_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-23T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "312363f5-2e97-407b-a82d-de9515a65a94",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "f1635ec7-c6ef-420f-b893-add092c3f8b9",
+      "Content": "ဂျီမေးလ် ဆိုတာ ဘာလဲ",
+      "TitleAudio": "31_CT_L1.mp3",
+      "Audio": "Level1_No_6_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-22T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-27T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "68560168-8b7b-4f59-b402-ef8c7cfb3638",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "cb8cc3f7-1ef4-4e03-8691-8adfad6aea89",
+      "Content": "မိတ်ဆက်",
+      "TitleAudio": "1_CT_Level2.mp3",
+      "Audio": "Level2_No_9_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "02bf376a-281c-4a77-9026-f38e58d03a3d",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "a9c06b31-9d80-4cc2-b9fb-927a48d456a1",
+      "Content": "UGC ဆိုတာ ဘာလဲ",
+      "TitleAudio": "9_CT_Level2.mp3",
+      "Audio": "Level2_No_2_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-24T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "b6f8f914-7fe4-42b3-a943-fe4d5b8ae7af",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "7b020a40-86e9-42df-8a16-c6b286d18b14",
+      "Content": "တက်ဘလက် ဆိုတာ ဘာလဲ ",
+      "TitleAudio": "4_CT_Intro.mp3",
+      "Audio": "Introduction_No_2_1.mp3",
+      "OrderingID": 1,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "989f8d88-ab7d-4a98-abe1-f6ffd9cf0826",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "745893cd-a1ec-4b22-b58a-215d25be5b18",
+      "Content": "ဖုန်း လိုင်းမိမမိ အချက်ပြတဲ့ သင်္ကေတ",
+      "TitleAudio": "42_CT_Intro.mp3",
+      "Audio": "Introduction_No_6_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "c6c935d3-e036-4929-a80c-f7e70c38e055",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "5b6078c4-ddfa-4e9e-af3b-e96c282ed695",
+      "Content": "ဗွီဒီယိုဖိုင်နှင့် ကိုက်ညီမှုမရှိသော သတင်းများ",
+      "TitleAudio": "28_CT_Level2.mp3",
+      "Audio": "Level2_No_6_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "22a44306-b526-4c18-9745-e070447c7516",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "94088cb9-4c95-4f9b-855f-61ac023dc466",
+      "Content": "တို့ထိခိုင်းစေခြင်း (Touch)",
+      "TitleAudio": "17_CT_Intro.mp3",
+      "Audio": "Introduction_No_5_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-22T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "ff25f967-4b69-4db2-b28b-dba28c818e50",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "3ac78bb2-79cc-45cb-9fc8-39abd8c50f68",
+      "Content": "ဓါတ်ပုံရိုက်ခဲ့သော တည်နေရာ၊ ရက်စွဲနဲ့ ဓါတ်ပုံကို ခန့်မှန်းခြေ ရိုက်ခဲ့သော အချိန်တို့ကို စီစစ်ရှာဖွေပါ",
+      "TitleAudio": "23_CT_Level2.mp3",
+      "Audio": "Level2_No_5_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "e7e06cb4-69a3-44ec-bb33-ce5a8474dab5",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "1d822e63-5f3d-4847-8d14-46d45ad10024",
+      "Content": "ပြက္ခဒိန် (Calendar) ",
+      "TitleAudio": "23_CT_Intro.mp3",
+      "Audio": "Introduction_No_8_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-09-23T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "1a51422e-9180-4c58-a048-d19eb3deb5dc",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "46df6084-6d69-460f-aa5e-500d27213813",
+      "Content": "အိုင်ကွန်များ",
+      "TitleAudio": "21_CT_Intro.mp3",
+      "Audio": "Introduction_No_7_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "b918bb5b-2309-441f-bd7b-ccf90a3f9a64",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "3785472d-3c2e-4b0b-8041-b9f19d6b9abc",
+      "Content": "လက်(ပ်)တော့၏ အသုံးဝင်ပုံ",
+      "TitleAudio": "28_CT_Intro.mp3",
+      "Audio": "Introduction_No_9_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "7e0e6b5e-e372-49d3-ae66-cd64e57f6e76",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "def0beb5-1b39-459f-8fd9-04e91c1c38fa",
+      "Content": "ပရိုဂရမ်တွေ ဘယ်လို ဖျက်မလဲ",
+      "TitleAudio": "27_CT_L1.mp3",
+      "Audio": "Level1_No_9_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "d16e591a-ce4d-499e-b9ca-cdae88a93beb",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "532a9c55-28ab-4d7e-b591-23291aca1798",
+      "Content": "WolframAlpha - ရာသီဥတုနှင့် ပတ်သတ်သော အချက်အလက်များ ရှာဖွေနည်း",
+      "TitleAudio": "32_CT_Level2.mp3",
+      "Audio": "Level2_No_7_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "8c1e701d-8c91-4004-9c64-c93880b372b6",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "cc1c1398-577c-4949-9c02-598df0657769",
+      "Content": "ဝိုင်ဖိုင် ချိတ်ဆက်နည်း",
+      "TitleAudio": "39_CT_Intro.mp3",
+      "Audio": "Introduction_No_14_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "7a10de62-50f0-4e06-81e1-c048da3897a3",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "7b020a40-86e9-42df-8a16-c6b286d18b14",
+      "Content": "ဘယ်နေရာမှာသုံးမလဲ",
+      "TitleAudio": "5_CT_Intro.mp3",
+      "Audio": "Introduction_No_2_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "b03012e3-56df-416e-b6ce-c3dc4b020249",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "a9c06b31-9d80-4cc2-b9fb-927a48d456a1",
+      "Content": "ဘယ်လိုကောင်းကျိုးဆိုးကျိုးတွေရှိလဲ",
+      "TitleAudio": "10_CT_Level2.mp3",
+      "Audio": "Level2_No_2_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "0f3d61ea-468c-40c4-91b7-9610227d49d5",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "9b49bd20-dfd7-4614-a2be-08e3db7e6109",
+      "Content": "Power Button (ပါဝါခလုတ် (သို့) ဖုန်းဖွင့်/ ပိတ် ခလုတ်)",
+      "TitleAudio": "12_CT_Intro.mp3",
+      "Audio": "Introduction_No_4_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "e06cab67-564b-49e9-9d2c-847890f157dc",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "47f36b17-f230-405f-985d-0b1a147dca95",
+      "Content": "ဓါတ်ပုံ ကြည့်မယ်",
+      "TitleAudio": "13_CT_L1.mp3",
+      "Audio": "Level1_No_2_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "d63f68ed-67d5-46cb-8053-852aa2504016",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "1e7ec8fd-cb4b-4a1d-8955-fd595e17f707",
+      "Content": "စတင်အသုံးပြုခြင်း",
+      "TitleAudio": "45_CT_Level2.mp3",
+      "Audio": "Level2_No_10_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "28285005-6356-4c22-a147-73f5e41fb8c7",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "7a96b30a-9931-423f-a8ce-271523644c06",
+      "Content": "တက်(စ်)ဘား  (Task Bar)",
+      "TitleAudio": "36_CT_Intro.mp3",
+      "Audio": "Introduction_No_12_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "b0a6d863-043e-4f9f-a76b-724961072f1d",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "2bf5a7a0-8e41-4f69-8894-d6a2fbef82ba",
+      "Content": "အသုံးများတဲ့ ပရိုဂရမ်များ",
+      "TitleAudio": "25_CT_L1.mp3",
+      "Audio": "Level1_No_8_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "780518f6-edb0-43ba-ab6e-63da36ec7ff6",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "cb8cc3f7-1ef4-4e03-8691-8adfad6aea89",
+      "Content": "သတင်းအချက်များ",
+      "TitleAudio": "41_CT_Level2.mp3",
+      "Audio": "Level2_No_9_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "e8972844-c417-4f2e-8dab-67fe54e9c775",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "21f5bc79-12fd-424f-9aae-d0f2238d7f41",
+      "Content": "Whatsapp",
+      "TitleAudio": "21_CT_L1.mp3",
+      "Audio": "Level1_No_7_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "613443cb-5520-419b-ac7f-6808549e0925",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "fc022b80-6475-4c4d-b464-5356c10345ad",
+      "Content": "စိုးရိမ်စိတ်နှင့် အကာကွယ်ပေးလိုစိတ်",
+      "TitleAudio": "13_CT_Level2.mp3",
+      "Audio": "Level2_No_3_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "56f753bd-339e-4697-ab3f-6cf5d810c911",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "eac4768a-6a90-428d-946d-e52e794cc356",
+      "Content": "သမိုင်းကြောင်း",
+      "TitleAudio": "2_CT_Intro.mp3",
+      "Audio": "Introduction_No_1_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "31910a7b-2276-48c6-a79e-4502803d0200",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "29afb6a7-c4ff-418b-a1dc-78c670eab105",
+      "Content": "ဘယ်လိုသိနိုင်မလဲ",
+      "TitleAudio": "35_CT_Level2.mp3",
+      "Audio": "Level2_No_8_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "90ec9c62-89bc-4d0b-b093-464955e2fd88",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "99c6f719-55a6-4c3d-99c2-f9facb779a4b",
+      "Content": "ဖုန်းဆက်တင်တွင် မြန်မာဘာသာစကားကို ပြောင်း၍ အသုံးပြုနည်း",
+      "TitleAudio": "33_CT_L1.mp3",
+      "Audio": "Level1_No_3_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-02T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "eb6d4371-79b1-479a-93cb-55950ef01142",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "0fed9593-63d8-40c7-b90c-0ca18d4ef1eb",
+      "Content": "ပါဝါဖွင့်တဲ့ ခလုတ် (Power Button)",
+      "TitleAudio": "30_CT_Intro.mp3",
+      "Audio": "Introduction_No_10_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "f6a401fe-e771-4bae-9d7c-5805a383593e",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Content": "အွန်လိုင်းပေါ်မှ သတင်းများ",
+      "TitleAudio": "2_CT_Level2.mp3",
+      "Audio": "Level2_No_1_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "54e00c00-54eb-4682-85ba-3d28816f0695",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "18af2eb8-1531-4ed3-b615-39f15c7c4f42",
+      "Content": "သတင်းနှင့် ဓါတ်ပုံများ ကိုက်ညီမှုမရှိခြင်း",
+      "TitleAudio": "19_CT_Level2.mp3",
+      "Audio": "Level2_No_4_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "a543e594-d58c-44c7-bef0-3dd8089a17dd",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "f1635ec7-c6ef-420f-b893-add092c3f8b9",
+      "Content": "အကောင့်ဆိုတာဘာလဲ",
+      "TitleAudio": "15_CT_L1.mp3",
+      "Audio": "Level1_No_6_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-22T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "0f2ee986-2500-4eb8-b4bd-3085f5022f3a",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "ဖုန်း ခေါ်ဆိုခြင်း",
+      "TitleAudio": "2_CT_L1.mp3",
+      "Audio": "Level1_No_1_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "034fe06d-be29-46ad-b447-0e7b37b795ca",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "ccfc1b3f-efe9-4fd4-8a19-b6ef9b317975",
+      "Content": "ကလစ်နှိပ်ခြင်း (Click)",
+      "TitleAudio": "33_CT_Intro.mp3",
+      "Audio": "Introduction_No_11_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "7c1fa55f-e9ca-47a3-a306-0c742de25363",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "476f206e-e61c-4f47-943e-e2d4ae467e4b",
+      "Content": "အပြင်ထွက်ရင် ဘာကို သယ်သွားမလဲ ",
+      "TitleAudio": "8_CT_Intro.mp3",
+      "Audio": "Introduction_No_3_2.mp3",
+      "OrderingID": 2,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "7b72d39d-3e6d-4cfd-949b-0d1ea670a9a9",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "f1635ec7-c6ef-420f-b893-add092c3f8b9",
+      "Content": "ဂျီမေးလ် အကောင့်လုပ်နည်း",
+      "TitleAudio": "16_CT_L1.mp3",
+      "Audio": "Level1_No_6_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-22T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-27T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "1f6fa373-74ec-49c0-acb7-00f7b7380d3b",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "745893cd-a1ec-4b22-b58a-215d25be5b18",
+      "Content": "နာရီ သင်္ကေတ",
+      "TitleAudio": "41_CT_Intro.mp3",
+      "Audio": "Introduction_No_6_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "6a265e78-b68a-4838-bf54-023dae2aaa93",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "1d822e63-5f3d-4847-8d14-46d45ad10024",
+      "Content": "နာရီ (Clock)",
+      "TitleAudio": "24_CT_Intro.mp3",
+      "Audio": "Introduction_No_8_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "79854610-0bdd-458e-88f3-06b94e4ae113",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "47f36b17-f230-405f-985d-0b1a147dca95",
+      "Content": "သီချင်းနားထောင်မယ်",
+      "TitleAudio": "14_CT_L1.mp3",
+      "Audio": "Level1_No_2_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "d2c4aebf-394f-4f92-b708-21c82e23b737",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "21f5bc79-12fd-424f-9aae-d0f2238d7f41",
+      "Content": "Zello",
+      "TitleAudio": "22_CT_L1.mp3",
+      "Audio": "Level1_No_7_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "b739e792-a48b-405c-ae1c-2515006efdcd",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "7a96b30a-9931-423f-a8ce-271523644c06",
+      "Content": "ဝင်းဒိုး အိတ်စ်ပရောရာ (Window Explorer)",
+      "TitleAudio": "37_CT_Intro.mp3",
+      "Audio": "Introduction_No_12_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "61e70e81-55c1-4fb2-ad91-6d2e2b3b9a14",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "94088cb9-4c95-4f9b-855f-61ac023dc466",
+      "Content": "ပွတ်ရွေ့ခြင်း (Swipe)",
+      "TitleAudio": "18_CT_Intro.mp3",
+      "Audio": "Introduction_No_5_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "05ccbef2-4eb0-4e55-85a7-5b6c0c921462",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "a9c06b31-9d80-4cc2-b9fb-927a48d456a1",
+      "Content": "UCG နှင့် သတင်းအမှား ပြဿနာ",
+      "TitleAudio": "11_CT_Level2.mp3",
+      "Audio": "Level2_No_2_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "72b00b0f-a6b6-4701-8a24-68de25e18443",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "476f206e-e61c-4f47-943e-e2d4ae467e4b",
+      "Content": "စာအုပ်၊ သတင်းတွေနဲ့ ဖျော်ဖြေရေး ကဏ္ဍ",
+      "TitleAudio": "9_CT_Intro.mp3",
+      "Audio": "Introduction_No_3_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "056b23bd-3204-44d5-a031-6b47f17ac21e",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Content": "စာရေးသူ",
+      "TitleAudio": "3_CT_Level2.mp3",
+      "Audio": "Level2_No_1_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "ba1feb52-6c0d-4cb9-81ce-625896c1fb55",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "9b49bd20-dfd7-4614-a2be-08e3db7e6109",
+      "Content": "Volume Button (ဖုန်းအသံ ချဲ့/လျော့ လုပ်လို့ရတဲ့ ခလုတ်)",
+      "TitleAudio": "13_CT_Intro.mp3",
+      "Audio": "Introduction_No_4_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "eaa42507-3ed0-499a-97a8-7dba148f2b3b",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "fc022b80-6475-4c4d-b464-5356c10345ad",
+      "Content": "ယုံကြည်ခြင်း",
+      "TitleAudio": "14_CT_Level2.mp3",
+      "Audio": "Level2_No_3_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "21e659b2-ce98-4e6b-b379-7e6a3ccb90c3",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "1e7ec8fd-cb4b-4a1d-8955-fd595e17f707",
+      "Content": "ဆောင်းပါးများ",
+      "TitleAudio": "46_CT_Level2.mp3",
+      "Audio": "Level2_No_10_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "95c2b4dc-9efa-4eca-b081-c7d67d60d97c",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "7b020a40-86e9-42df-8a16-c6b286d18b14",
+      "Content": "ရုံးလုပ်ငန်းနှင့် တက်ဘလက်",
+      "TitleAudio": "6_CT_Intro.mp3",
+      "Audio": "Introduction_No_2_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "32401003-1c00-48d7-9246-ccdfb16b4434",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "18af2eb8-1531-4ed3-b615-39f15c7c4f42",
+      "Content": "ဓါတ်ပုံများကို ပြုပြင်ထားခြင်း",
+      "TitleAudio": "20_CT_Level2.mp3",
+      "Audio": "Level2_No_4_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-23T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "58d1185b-c80f-4572-b384-c9b074e55130",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "3ac78bb2-79cc-45cb-9fc8-39abd8c50f68",
+      "Content": "ဓါတ်ပုံရိုက်ခဲ့သော တည်နေရာ၊ ရက်စွဲနှင့် အချိန်ကို စုံစမ်းအတည်ပြုရာတွင် ဓါတ်ပုံကို အသေးစိတ် အနီးကပ်ကြည့်ရှုပြီး ဆန်းစစ်ပါ",
+      "TitleAudio": "24_CT_Level2.mp3",
+      "Audio": "Level2_No_5_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "76bea93f-b58c-43f8-974e-cb87c3b4c430",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "29afb6a7-c4ff-418b-a1dc-78c670eab105",
+      "Content": "တိုက်ခိုက်မှု ဖြစ်ပေါ်နိုင်တဲ့ နေရာနဲ့ နည်းလမ်းတွေ",
+      "TitleAudio": "36_CT_Level2.mp3",
+      "Audio": "Level2_No_8_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-24T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-24T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "639f0bad-e2ca-4646-96a0-acbb613879b7",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "cb8cc3f7-1ef4-4e03-8691-8adfad6aea89",
+      "Content": "အကူအညီနှင့် လမ်းညွှန်ချက်များ",
+      "TitleAudio": "42_CT_Level2.mp3",
+      "Audio": "Level2_No_9_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-25T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "9ad8989a-2a2e-4c82-afd2-afa314baf54a",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "532a9c55-28ab-4d7e-b591-23291aca1798",
+      "Content": "FotoForensics - ဓါတ်ပုံ၏ Metadata အချက်အလက်များ စီစစ်ခြင်း",
+      "TitleAudio": "33_CT_Level2.mp3",
+      "Audio": "Level2_No_7_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-23T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "dfc5b17d-1d38-4b6b-ad3d-cdb1a8efed68",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "5b6078c4-ddfa-4e9e-af3b-e96c282ed695",
+      "Content": "ဗွီဒီယိုများကို စီစစ်ခြင်း နည်းလမ်းများ",
+      "TitleAudio": "29_CT_Level2.mp3",
+      "Audio": "Level2_No_6_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "b8d2169c-1748-4fdc-9df8-e1779951006e",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "နာမည်နဲ့တကွ သိမ်းဆည်းထားတဲ့ ဖုန်းခေါ်ဆိုခြင်း",
+      "TitleAudio": "3_CT_L1.mp3",
+      "Audio": "Level1_No_1_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-03T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "8531722f-3ebf-46be-a947-e4bc0fbbf518",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "0fed9593-63d8-40c7-b90c-0ca18d4ef1eb",
+      "Content": "ကီးဘုတ် (Keyboard)",
+      "TitleAudio": "31_CT_Intro.mp3",
+      "Audio": "Introduction_No_10_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "cca82d78-e401-43de-a43a-e918a5fae1ee",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "eac4768a-6a90-428d-946d-e52e794cc356",
+      "Content": "မိုဘိုင်းဖုန်းများ အဆင့်ဆင့် ပြောင်းလဲတိုးတက်လာပုံ",
+      "TitleAudio": "3_CT_Intro.mp3",
+      "Audio": "Introduction_No_1_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "95597919-1a79-4854-9163-d3e8e708e733",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "ccfc1b3f-efe9-4fd4-8a19-b6ef9b317975",
+      "Content": "စာစီစာရိုက်လုပ်ခြင်း (Typing)",
+      "TitleAudio": "34_CT_Intro.mp3",
+      "Audio": "Introduction_No_11_3.mp3",
+      "OrderingID": 3,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "5d4c20e2-91f8-45cd-8b06-f3267a4e72c5",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Content": "ထုတ်ဝေသူ",
+      "TitleAudio": "4_CT_Level2.mp3",
+      "Audio": "Level2_No_1_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "8b172fdd-de12-4e6a-be35-fce4c93d4f46",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "745893cd-a1ec-4b22-b58a-215d25be5b18",
+      "Content": "ဖုန်း ဘက်ထရီ သင်္ကေတ",
+      "TitleAudio": "43_CT_Intro.mp3",
+      "Audio": "Introduction_No_6_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "82bd3bfa-f7f8-43cc-afad-eed472e94cf1",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "fc022b80-6475-4c4d-b464-5356c10345ad",
+      "Content": "ချဲ့ကားသွားတတ်ခြင်း",
+      "TitleAudio": "15_CT_Level2.mp3",
+      "Audio": "Level2_No_3_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "f62f5acf-8f09-44b6-8c4d-f9698c552434",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "476f206e-e61c-4f47-943e-e2d4ae467e4b",
+      "Content": "အားသာချက်တွေ",
+      "TitleAudio": "10_CT_Intro.mp3",
+      "Audio": "Introduction_No_3_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-08T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "e9df996e-500f-48dc-95a8-e57a9f927366",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "ဖုန်း အဝင် ကောလ် တွေကိုဘယ်လို ကိုင်မလဲ",
+      "TitleAudio": "32_CT_L1.mp3",
+      "Audio": "Level1_No_1_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-02T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "afd43ef3-e599-429f-bdcc-e1672dcdbdf0",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "21f5bc79-12fd-424f-9aae-d0f2238d7f41",
+      "Content": "အက်ပလီကေးရှင်း ပြန်ဖျက်နည်း",
+      "TitleAudio": "23_CT_L1.mp3",
+      "Audio": "Level1_No_7_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "69331e85-472e-4b54-bca7-d32844edfa72",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "3ac78bb2-79cc-45cb-9fc8-39abd8c50f68",
+      "Content": "တည်နေရာကို ဆန်းစစ်ပါ",
+      "TitleAudio": "25_CT_Level2.mp3",
+      "Audio": "Level2_No_5_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "0b24b0f0-93f6-4130-aa04-bf63f6e4804f",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "29afb6a7-c4ff-418b-a1dc-78c670eab105",
+      "Content": "ဘာလို့ ဆိုက်ဘာတိုက်ခိုက်မှု ပြုလုပ်ကြတာလဲ ",
+      "TitleAudio": "37_CT_Level2.mp3",
+      "Audio": "Level2_No_8_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-24T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "865139fa-e9a7-4842-b756-a0ac05666c05",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "532a9c55-28ab-4d7e-b591-23291aca1798",
+      "Content": "Google Map အသုံးပြု၍ သုံးစွဲသူများ ကိုယ်တိုင်ရေးသား ဖန်တီးထားသော ဓါတ်ပုံများကို စီစစ်နည်း",
+      "TitleAudio": "52_CT_Level2.mp3",
+      "Audio": "Level2_No_7_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-23T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-23T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "9ea61a88-131f-49d2-b93d-a0ccd10dc3e3",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "18af2eb8-1531-4ed3-b615-39f15c7c4f42",
+      "Content": "သတင်းအမှား၊ ပုံအတုမှန်း မသိသာစေရန် သတင်းများကို ဓါတ်ပုံများအသွင်ဖြင့် တင်ထားခြင်း",
+      "TitleAudio": "21_CT_Level2.mp3",
+      "Audio": "Level2_No_4_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-23T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "add875be-10e4-49f5-b9bc-a2d8e891a626",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "cb8cc3f7-1ef4-4e03-8691-8adfad6aea89",
+      "Content": "ဝန်ဆောင်မှုများ",
+      "TitleAudio": "43_CT_Level2.mp3",
+      "Audio": "Level2_No_9_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-25T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "4aaebf9b-bca9-4364-b592-a77b8c41d309",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "1d822e63-5f3d-4847-8d14-46d45ad10024",
+      "Content": "အသံဖမ်းခြင်း (Recorder)",
+      "TitleAudio": "25_CT_Intro.mp3",
+      "Audio": "Introduction_No_8_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-22T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "09c0463c-d355-46f4-9aef-a9257ddf8fc2",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "f1635ec7-c6ef-420f-b893-add092c3f8b9",
+      "Content": "အက်ပလီကေးရှင်းစတိုး မှာ ဂျီမေးလ်အကောင့်ဝင်မယ်",
+      "TitleAudio": "17_CT_L1.mp3",
+      "Audio": "Level1_No_6_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-22T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-27T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "c4f1d176-887a-4753-8d6d-363232f14ff2",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "0fed9593-63d8-40c7-b90c-0ca18d4ef1eb",
+      "Content": "တက်ချ်ပက် (Touch Pad)",
+      "TitleAudio": "32_CT_Intro.mp3",
+      "Audio": "Introduction_No_10_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "b3df6352-3d7f-4fa5-9d41-31771cfced77",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "9b49bd20-dfd7-4614-a2be-08e3db7e6109",
+      "Content": "Home Button (ဖုန်းရဲ့ ပထမဆုံးစာမျက်နှာကို သွားတဲ့ခလုတ်)",
+      "TitleAudio": "14_CT_Intro.mp3",
+      "Audio": "Introduction_No_4_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-27T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "a6b6398b-fd5e-4ab8-b9d2-09c65e448cea",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "1e7ec8fd-cb4b-4a1d-8955-fd595e17f707",
+      "Content": "အထွေထွေ",
+      "TitleAudio": "47_CT_Level2.mp3",
+      "Audio": "Level2_No_10_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "0b671244-0f57-40a5-a2e7-196a0600782c",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "5b6078c4-ddfa-4e9e-af3b-e96c282ed695",
+      "Content": "ဗီဒီယို၏ ရင်းမြစ်ကို စီစစ်ခြင်း",
+      "TitleAudio": "30_CT_Level2.mp3",
+      "Audio": "Level2_No_6_4.mp3",
+      "OrderingID": 4,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-24T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "92dbbadf-19f1-4fcc-8447-248c92aeae60",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "3ac78bb2-79cc-45cb-9fc8-39abd8c50f68",
+      "Content": "ဓါတ်ပုံနှင့်တကွ တပ်ထားသော ခေါင်းစဉ်နှင့် ဓါတ်ပုံမှပြသောအကြောင်းအရာ ကိုက်ညီမှု ရှိ/မရှိ စစ်ဆေးပါ",
+      "TitleAudio": "26_CT_Level2.mp3",
+      "Audio": "Level2_No_5_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "13f8b421-f7e0-4d30-b6c6-328123c7a395",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "1e7ec8fd-cb4b-4a1d-8955-fd595e17f707",
+      "Content": "သင့်အကြောင်း",
+      "TitleAudio": "48_CT_Level2.mp3",
+      "Audio": "Level2_No_10_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "e1c7c476-1ca8-4f93-9d4b-53c4f0b0c1d3",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "cb8cc3f7-1ef4-4e03-8691-8adfad6aea89",
+      "Content": "ပြင်ဆင်ခြင်း",
+      "TitleAudio": "44_CT_Level2.mp3",
+      "Audio": "Level2_No_9_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "e58f7132-4a69-40fe-b148-54899a21681c",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "9b49bd20-dfd7-4614-a2be-08e3db7e6109",
+      "Content": "SIM Slot (ဖုန်းဆက်ရန် ကဒ်ထည့်တဲ့ အပေါက်) ",
+      "TitleAudio": "15_CT_Intro.mp3",
+      "Audio": "Introduction_No_4_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-15T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "207723c9-b5b4-4333-9caa-817f12367747",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "fc022b80-6475-4c4d-b464-5356c10345ad",
+      "Content": "စိတ်အခြေအနေများကို စနစ်တကျ အသုံးချ လှုံ့ဆော်ကြသူများ",
+      "TitleAudio": "16_CT_Level2.mp3",
+      "Audio": "Level2_No_3_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "fa158ece-cd48-4293-8c91-825706595cee",
+      "levelID": "5dfdc360-c1c5-40f2-8cd3-62029fcec2be",
+      "ChapterID": "1d822e63-5f3d-4847-8d14-46d45ad10024",
+      "Content": "မှတ်စု",
+      "TitleAudio": "26_CT_Intro.mp3",
+      "Audio": "Introduction_No_8_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-08-21T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "e5a335b5-04b3-40f4-8870-92e909f27b9c",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Content": "အချက်အလက်များ တိကျမှန်ကန်မှု ရှိ/ မရှိ",
+      "TitleAudio": "5_CT_Level2.mp3",
+      "Audio": "Level2_No_1_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "4a9fa06e-ce0f-4a42-98c9-e01677e8eda0",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "29afb6a7-c4ff-418b-a1dc-78c670eab105",
+      "Content": "လူမှုကွန်ယက်အသုံးပြုပြီး နှောက်ယှက်တဲ့ နည်းလမ်းအမျိုးအစားများ",
+      "TitleAudio": "38_CT_Level2.mp3",
+      "Audio": "Level2_No_8_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-24T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "88544ffc-f44e-430b-b9d0-e5ab4846a27d",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "f1635ec7-c6ef-420f-b893-add092c3f8b9",
+      "Content": "အက်ပလီကေးရှင်းတွေ ကို ဘယ်လိုရှာမလဲ",
+      "TitleAudio": "18_CT_L1.mp3",
+      "Audio": "Level1_No_6_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-22T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "8a99e462-6f75-4fbb-bc5c-fc1b94189a6d",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "မြန်မာနိုင်ငံရှိ ဆက်သွယ်ရေးဝန်ဆောင်မှု ဖုန်းလိုင်းများ",
+      "TitleAudio": "4_CT_L1.mp3",
+      "Audio": "Level1_No_1_5.mp3",
+      "OrderingID": 5,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "f59ae5f9-244d-419a-bd69-3277d6c44e11",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "167e67c7-2f47-42e5-8354-f3464dee2604",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "29afb6a7-c4ff-418b-a1dc-78c670eab105",
+      "Content": "ဘယ်လိုတားဆီး ကာကွယ်ရမလဲ ",
+      "TitleAudio": "39_CT_Level2.mp3",
+      "Audio": "Level2_No_8_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-24T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "96f09195-3382-41e7-901b-f1bcef32a357",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Content": "အချိန်ကာလ",
+      "TitleAudio": "6_CT_Level2.mp3",
+      "Audio": "Level2_No_1_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "fb02e777-b920-422d-98bc-b5943cf0999e",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "f1635ec7-c6ef-420f-b893-add092c3f8b9",
+      "Content": "အက်ပလီကေးရှင်း သွင်းကြမယ်",
+      "TitleAudio": "19_CT_L1.mp3",
+      "Audio": "Level1_No_6_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-22T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "63f213af-b423-47a5-9115-a309d8177c29",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "1e7ec8fd-cb4b-4a1d-8955-fd595e17f707",
+      "Content": "ပြင်ဆင်ခြင်း",
+      "TitleAudio": "50_CT_Level2.mp3",
+      "Audio": "Level2_No_10_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-19T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-25T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "0d4a6f73-d0ac-4457-bd56-5ea546e6201f",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "fc022b80-6475-4c4d-b464-5356c10345ad",
+      "Content": "သတိပြုရန်",
+      "TitleAudio": "17_CT_Level2.mp3",
+      "Audio": "Level2_No_3_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-18T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "145a3625-b15a-4c96-b99d-03be994465bf",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "ဖုန်း ငွေဖြည့်ခြင်း",
+      "TitleAudio": "5_CT_L1.mp3",
+      "Audio": "Level1_No_1_6.mp3",
+      "OrderingID": 6,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "e24a3962-398f-425c-88a9-2434e09302f2",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "ဖုန်း ငွေစစ်ခြင်း",
+      "TitleAudio": "6_CT_L1.mp3",
+      "Audio": "Level1_No_1_7.mp3",
+      "OrderingID": 7,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "643203bb-3f20-4bd7-87fe-5a69218125c7",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "29afb6a7-c4ff-418b-a1dc-78c670eab105",
+      "Content": "လူမှုကွန်ယက်ပေါ်တွင် နှောက်ယှက်ခံရရင် ",
+      "TitleAudio": "40_CT_Level2.mp3",
+      "Audio": "Level2_No_8_7.mp3",
+      "OrderingID": 7,
+      "isDeleted": null,
+      "CreatedDate": "2019-09-24T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": null,
+      "Updatedby": null
+    },
+    {
+      "SubChapterID": "9887295c-fce5-48a7-9d5b-861b872fdd53",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Content": "ကိုးကားချက်များကို သုံးသပ်ခြင်း",
+      "TitleAudio": "7_CT_Level2.mp3",
+      "Audio": "Level2_No_1_7.mp3",
+      "OrderingID": 7,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "e8b218d4-d85f-426b-be54-51bf8c5b44ea",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "စာတိုပို့ခြင်း (မက်ဆေ့ ပို့ခြင်း)",
+      "TitleAudio": "7_CT_L1.mp3",
+      "Audio": "Level1_No_1_8.mp3",
+      "OrderingID": 8,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "e5e8a328-aea0-4282-8a79-c67d0ae7fb5a",
+      "levelID": "2fbba33f-9adf-41b5-8160-e2a840ad750c",
+      "ChapterID": "086f5deb-b417-44e1-95b7-5e37482d544b",
+      "Content": "နောက်ခံထောက်ပံ့သူ",
+      "TitleAudio": "8_CT_Level2.mp3",
+      "Audio": "Level2_No_1_8.mp3",
+      "OrderingID": 8,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-14T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-19T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "c357f32c-3323-4623-92a1-357da389cb21",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "အင်တာနက်ဆိုတာ ဘာလဲ",
+      "TitleAudio": "8_CT_L1.mp3",
+      "Audio": "Level1_No_1_9.mp3",
+      "OrderingID": 9,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "e738016d-ee3f-4c87-b418-fa1f0adca020",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "အင်တာနက် ချိတ်ဆက်ခြင်း",
+      "TitleAudio": "9_CT_L1.mp3",
+      "Audio": "Level1_No_1_10.mp3",
+      "OrderingID": 10,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "0b46fa80-dfd7-49cb-969f-cc2cb1bc1038",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "အင်တာနက် ဘယ်လို ပြန်ပိတ်မလဲ",
+      "TitleAudio": "10_CT_L1.mp3",
+      "Audio": "Level1_No_1_11.mp3",
+      "OrderingID": 11,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    },
+    {
+      "SubChapterID": "697ce0d5-93ae-451a-b8d1-e41087837a76",
+      "levelID": "cf966661-4b60-414c-a062-73aa5b732981",
+      "ChapterID": "d0ed826a-30de-42d3-b044-719bb62a4719",
+      "Content": "အင်တာနက် ရှယ်ခြင်း/ မျှဝေ အသုံးပြုခြင်း",
+      "TitleAudio": "11_CT_L1.mp3",
+      "Audio": "Level1_No_1_12.mp3",
+      "OrderingID": 12,
+      "isDeleted": null,
+      "CreatedDate": "2019-08-16T00:00:00",
+      "Createdby": "af5dee83-162c-47cd-9aeb-894c92636a3a",
+      "UpdatedDate": "2019-09-02T00:00:00",
+      "Updatedby": "af5dee83-162c-47cd-9aeb-894c92636a3a"
+    }
+  ],
+  "SectionCards": [
+    {
+      "SectionID": "0dda8b67-c8b0-4950-8cc1-fb8a98d59b47",
+      "SubChapterID": "4293a668-f77f-4eca-b835-2cdd2e17eb86",
+      "CardName": "intro1_1.png,intro1_2.png,intro1_3.png"
+    },
+    {
+      "SectionID": "36a8a2c2-2668-4401-8886-ead5280e3444",
+      "SubChapterID": "56f753bd-339e-4697-ab3f-6cf5d810c911",
+      "CardName": "intro1_4.png,intro1_5.png"
+    },
+    {
+      "SectionID": "66af0e81-ef5d-4a85-84f1-2566965d5224",
+      "SubChapterID": "cca82d78-e401-43de-a43a-e918a5fae1ee",
+      "CardName": "intro1_6.png,intro1_7.png,intro1_8.png"
+    },
+    {
+      "SectionID": "9ad9f661-b77c-498e-9b2e-51fcb8f827fe",
+      "SubChapterID": "b6f8f914-7fe4-42b3-a943-fe4d5b8ae7af",
+      "CardName": "intro2_1.png,intro2_2.png"
+    },
+    {
+      "SectionID": "4e17d186-0a3a-46cb-be01-775d2be69034",
+      "SubChapterID": "7a10de62-50f0-4e06-81e1-c048da3897a3",
+      "CardName": "intro2_3.png,intro2_4.png"
+    },
+    {
+      "SectionID": "64d3f29f-e6ab-4d80-a967-aceab3f51a4f",
+      "SubChapterID": "95c2b4dc-9efa-4eca-b081-c7d67d60d97c",
+      "CardName": "intro2_5.png,intro2_6.png,intro2_7.png,intro2_8.png"
+    },
+    {
+      "SectionID": "eff28d03-c5b1-4c22-8eec-306e545db42d",
+      "SubChapterID": "8803d080-f722-4ac0-bc7d-26bba233dab0",
+      "CardName": "intro3_1.png"
+    },
+    {
+      "SectionID": "51a24a50-533f-4ba3-93aa-4177b92e0921",
+      "SubChapterID": "7c1fa55f-e9ca-47a3-a306-0c742de25363",
+      "CardName": "intro3_2.png,intro3_3.png"
+    },
+    {
+      "SectionID": "2a89662d-584f-4e2b-ae84-2a2d4710cb3a",
+      "SubChapterID": "72b00b0f-a6b6-4701-8a24-68de25e18443",
+      "CardName": "intro3_4.png,intro3_5.png"
+    },
+    {
+      "SectionID": "fcba501e-f8e2-433b-a03f-30e172769cc9",
+      "SubChapterID": "f62f5acf-8f09-44b6-8c4d-f9698c552434",
+      "CardName": "intro3_6.png,intro3_7.png"
+    },
+    {
+      "SectionID": "85e37d36-ced6-4e25-a2a9-181f9c919f7b",
+      "SubChapterID": "f2ea1082-94b4-4404-9ad2-b9db640c3e71",
+      "CardName": "2level1_1.png,2level1_2.png,2level1_3.png,2level1_4.png"
+    },
+    {
+      "SectionID": "4cff3802-eb4d-4acf-a8af-84b5fe084319",
+      "SubChapterID": "f6a401fe-e771-4bae-9d7c-5805a383593e",
+      "CardName": "2level1_5.png,2level1_6.png"
+    },
+    {
+      "SectionID": "e03dde58-2eed-4a7e-a1b3-1efe27bd3f8c",
+      "SubChapterID": "056b23bd-3204-44d5-a031-6b47f17ac21e",
+      "CardName": "2level1_7.png,2level1_8.png"
+    },
+    {
+      "SectionID": "ddd792da-b4f5-4177-8b23-6355177e1ac1",
+      "SubChapterID": "5d4c20e2-91f8-45cd-8b06-f3267a4e72c5",
+      "CardName": "2level1_9.png"
+    },
+    {
+      "SectionID": "ebc1ad14-a3c9-46fb-8f27-772ad90077e8",
+      "SubChapterID": "e5a335b5-04b3-40f4-8870-92e909f27b9c",
+      "CardName": "2level1_10.png,2level1_11.png"
+    },
+    {
+      "SectionID": "281a0898-c093-4889-bc05-87ca358515b6",
+      "SubChapterID": "96f09195-3382-41e7-901b-f1bcef32a357",
+      "CardName": "2level1_12.png,2level1_13.png"
+    },
+    {
+      "SectionID": "5f97433d-332b-446b-bbf7-ebc22665fc59",
+      "SubChapterID": "9887295c-fce5-48a7-9d5b-861b872fdd53",
+      "CardName": "2level1_14.png"
+    },
+    {
+      "SectionID": "8856d1cc-2d80-4d80-8ed7-0addea2773a9",
+      "SubChapterID": "e5e8a328-aea0-4282-8a79-c67d0ae7fb5a",
+      "CardName": "2level1_15.png"
+    },
+    {
+      "SectionID": "579b581b-b71a-4924-b850-7261a1924480",
+      "SubChapterID": "02bf376a-281c-4a77-9026-f38e58d03a3d",
+      "CardName": "2level2_1_1.png,2level2_1.png,2level2_2.png"
+    },
+    {
+      "SectionID": "b10c9ac2-b2f8-4a93-8a22-e1f3895e2b65",
+      "SubChapterID": "b03012e3-56df-416e-b6ce-c3dc4b020249",
+      "CardName": "2level2_3.png,2level2_4.png,2level2_5.png"
+    },
+    {
+      "SectionID": "4546d3a1-474d-49ea-b5f9-db117a2c4b90",
+      "SubChapterID": "05ccbef2-4eb0-4e55-85a7-5b6c0c921462",
+      "CardName": "2level2_6.png,2level2_7.png"
+    },
+    {
+      "SectionID": "7d1ccd6b-d179-4a9a-96c2-7c9c7847b1ed",
+      "SubChapterID": "61d37f81-a1ab-41f9-a015-8a3e1545411e",
+      "CardName": "intro4_1.png,intro4_2.png,intro4_3.png"
+    },
+    {
+      "SectionID": "4d9d4d81-c2c2-4f90-9e81-ac8874afd2aa",
+      "SubChapterID": "0f3d61ea-468c-40c4-91b7-9610227d49d5",
+      "CardName": "intro4_4.png,intro4_5.png,intro4_6.png,intro4_7.png"
+    },
+    {
+      "SectionID": "9f328e5c-effe-4aaa-96e6-3e724030ce30",
+      "SubChapterID": "ba1feb52-6c0d-4cb9-81ce-625896c1fb55",
+      "CardName": "intro4_8.png,intro4_9.png"
+    },
+    {
+      "SectionID": "116ca10b-f433-47a2-bfb5-26ba7a692491",
+      "SubChapterID": "b3df6352-3d7f-4fa5-9d41-31771cfced77",
+      "CardName": "intro4_10.png,intro4_11.png,intro4_12.png,intro4_13.png"
+    },
+    {
+      "SectionID": "2a598006-c93c-4ce1-bc58-f68faf265ef6",
+      "SubChapterID": "e58f7132-4a69-40fe-b148-54899a21681c",
+      "CardName": "intro4_14.png,intro4_15.png,intro4_16.png"
+    },
+    {
+      "SectionID": "55e5dd33-e165-4202-9bed-acd4ba16fc1e",
+      "SubChapterID": "babad9ea-2e1c-47a7-b396-927905c847eb",
+      "CardName": "intro5_1.png"
+    },
+    {
+      "SectionID": "2e76e2e1-0896-42ca-a7b7-3892e69bab19",
+      "SubChapterID": "22a44306-b526-4c18-9745-e070447c7516",
+      "CardName": "intro5_2.png,intro5_3.png,intro5_4.png,intro5_5.png,intro5_6.png"
+    },
+    {
+      "SectionID": "0a89945e-e6ad-4872-81d2-79128cd34795",
+      "SubChapterID": "61e70e81-55c1-4fb2-ad91-6d2e2b3b9a14",
+      "CardName": "intro5_7.png,intro5_8.png,intro5_9.png,intro5_10.png,intro5_11.png"
+    },
+    {
+      "SectionID": "71478d4e-bd5c-434d-b778-81f841674325",
+      "SubChapterID": "5a75e6ad-d743-4105-b537-a64dfad0078d",
+      "CardName": "intro6_1.png,intro6_2.png,intro6_3.png,intro6_4.png"
+    },
+    {
+      "SectionID": "d747ec21-c3c3-4261-b954-3a8cc3b29088",
+      "SubChapterID": "989f8d88-ab7d-4a98-abe1-f6ffd9cf0826",
+      "CardName": "intro6_5.png"
+    },
+    {
+      "SectionID": "eaabe539-6a6d-4bd7-9fbc-3c328a5a6418",
+      "SubChapterID": "1f6fa373-74ec-49c0-acb7-00f7b7380d3b",
+      "CardName": "intro6_6.png"
+    },
+    {
+      "SectionID": "dfbdda29-5a65-4e69-a9c9-f4aef01555f1",
+      "SubChapterID": "8b172fdd-de12-4e6a-be35-fce4c93d4f46",
+      "CardName": "intro6_7.png"
+    },
+    {
+      "SectionID": "7553d9c8-0912-49a3-9f46-59f97fd04f24",
+      "SubChapterID": "8aa17a13-df9c-42ea-be46-437f4b45cae2",
+      "CardName": "intro8_1.png,intro8_2.png,intro8_3.png"
+    },
+    {
+      "SectionID": "29743765-3382-4624-93db-d3ec1a8344cc",
+      "SubChapterID": "e7e06cb4-69a3-44ec-bb33-ce5a8474dab5",
+      "CardName": "intro8_4.png,intro8_5.png,intro8_6.png,intro8_7.png"
+    },
+    {
+      "SectionID": "c070f478-eeea-444a-b5a3-f4065f40a9ad",
+      "SubChapterID": "6a265e78-b68a-4838-bf54-023dae2aaa93",
+      "CardName": "intro8_8.png,intro8_9.png"
+    },
+    {
+      "SectionID": "fe0d47a6-4e9b-43c8-8c43-4c944e4a8b9b",
+      "SubChapterID": "4aaebf9b-bca9-4364-b592-a77b8c41d309",
+      "CardName": "intro8_10.png,intro8_11.png,intro8_12.png,intro8_13.png,intro8_14.png,intro8_15.png,intro8_15_1.png,intro8_15_2.png"
+    },
+    {
+      "SectionID": "e362f60c-b775-4a34-86f7-be721f481cfd",
+      "SubChapterID": "fa158ece-cd48-4293-8c91-825706595cee",
+      "CardName": "intro8_16.png,intro8_17.png,intro8_18.png,intro8_19.png"
+    },
+    {
+      "SectionID": "3dcee4d1-0291-4215-a81a-535a50aa3407",
+      "SubChapterID": "6ef4c336-02d3-43e6-a47d-95e756ed5f53",
+      "CardName": "intro9_1.png,intro9_2.png,intro9_3.png"
+    },
+    {
+      "SectionID": "96af420b-5fe7-4a67-bb3f-fae90a980a50",
+      "SubChapterID": "b918bb5b-2309-441f-bd7b-ccf90a3f9a64",
+      "CardName": "intro9_4.png,intro9_5.png,intro9_6.png,intro9_7.png"
+    },
+    {
+      "SectionID": "0b50ac23-b093-472f-8290-748d6d2b1b25",
+      "SubChapterID": "a543e594-d58c-44c7-bef0-3dd8089a17dd",
+      "CardName": "lvl1_card77.png,lvl1_card78.png,lvl1_card79.png,lvl1_card80.png"
+    },
+    {
+      "SectionID": "0960fd4d-4cb2-44c9-9ff1-34af4837a5c1",
+      "SubChapterID": "8ed8b819-7b53-498e-84b7-dbdadbcfb538",
+      "CardName": "2level7_1.png,2level7_2.png,2level7_3.png,2level7_4.png"
+    },
+    {
+      "SectionID": "77ad1036-757b-4f48-b1df-89700b258aca",
+      "SubChapterID": "8ed23a01-0895-4c88-a12b-b37c16909da4",
+      "CardName": "intro7_1.png,intro7_2.png,intro7_3.png"
+    },
+    {
+      "SectionID": "6c84e070-81e4-4fe4-b775-5f2d307ad798",
+      "SubChapterID": "1a51422e-9180-4c58-a048-d19eb3deb5dc",
+      "CardName": "intro7_4.png,intro7_5.png,intro7_6.png,intro7_7.png"
+    },
+    {
+      "SectionID": "cad53630-5c3c-4a82-bd06-fdc6f73b5d40",
+      "SubChapterID": "58d1185b-c80f-4572-b384-c9b074e55130",
+      "CardName": "2level5_7.png,2level5_8.png,2level5_9.png,2level5_10.png"
+    },
+    {
+      "SectionID": "c2b80e3e-ab7c-46ed-a3a5-2a6e7b3e1e22",
+      "SubChapterID": "69331e85-472e-4b54-bca7-d32844edfa72",
+      "CardName": "2level5_11.png,2level5_12.png,2level5_13.png,2level5_14.png"
+    },
+    {
+      "SectionID": "964c4383-0be6-481a-9355-81601c94c112",
+      "SubChapterID": "92dbbadf-19f1-4fcc-8447-248c92aeae60",
+      "CardName": "2level5_15.png"
+    },
+    {
+      "SectionID": "b8bbdac5-e34c-492d-92d7-61610bae17cc",
+      "SubChapterID": "5ed3af19-90be-48c2-a06b-782c1c285c8c",
+      "CardName": "2level6_1.png"
+    },
+    {
+      "SectionID": "e5b27b56-36ab-4b14-904e-9449feab61d2",
+      "SubChapterID": "c6c935d3-e036-4929-a80c-f7e70c38e055",
+      "CardName": "2level6_2.png,2level6_3.png,2level6_4.png"
+    },
+    {
+      "SectionID": "edafb1ef-77dd-4edf-9d54-f2eefdd3f985",
+      "SubChapterID": "dfc5b17d-1d38-4b6b-ad3d-cdb1a8efed68",
+      "CardName": "2level6_5.png,2level6_6.png,2level6_7.png"
+    },
+    {
+      "SectionID": "e75f88c6-5f07-4578-82ed-3026f5ff008a",
+      "SubChapterID": "0b671244-0f57-40a5-a2e7-196a0600782c",
+      "CardName": "2level6_8.png,2level6_9.png,2level6_10.png,2level6_11.png,2level6_12.png,2level6_13.png"
+    },
+    {
+      "SectionID": "1e807a80-5f4e-40d8-8a80-0c5a1894af06",
+      "SubChapterID": "adfd1969-ba0d-46ae-b3b3-be1ad92b1629",
+      "CardName": "lvl1_card132.png,lvl1_card133.png,lvl1_card134.png,lvl1_card135.png,lvl1_card136.png,lvl1_card137.png,lvl1_card138.png,lvl1_card139.png"
+    },
+    {
+      "SectionID": "aa4e7926-3cb5-41a6-ad48-5195e7d640e6",
+      "SubChapterID": "7e0e6b5e-e372-49d3-ae66-cd64e57f6e76",
+      "CardName": "lvl1_card140.png,lvl1_card141.png,lvl1_card142.png"
+    },
+    {
+      "SectionID": "c593ab48-546c-4b55-814d-dc9cbbbb8271",
+      "SubChapterID": "e9df996e-500f-48dc-95a8-e57a9f927366",
+      "CardName": "lvl1_card10.png,lvl1_card11.png,lvl1_card12.png"
+    },
+    {
+      "SectionID": "3e7e89e0-2500-4708-b2bf-264411ec1bbc",
+      "SubChapterID": "90ec9c62-89bc-4d0b-b093-464955e2fd88",
+      "CardName": "lvl1_card68.png,lvl1_card69.png,lvl1_card70.png"
+    },
+    {
+      "SectionID": "8fd08ada-cfa1-41ae-822e-36588c984b52",
+      "SubChapterID": "aeb13603-3f84-4c99-a4fb-318625667e81",
+      "CardName": "2level8_1.png,2level8_2.png,2level8_3.png"
+    },
+    {
+      "SectionID": "249f5a9f-2464-4c1f-b45b-2dad833755a7",
+      "SubChapterID": "68560168-8b7b-4f59-b402-ef8c7cfb3638",
+      "CardName": "2level9_1.png"
+    },
+    {
+      "SectionID": "3d752733-21e8-4e54-b8d9-13d1e77a92a5",
+      "SubChapterID": "780518f6-edb0-43ba-ab6e-63da36ec7ff6",
+      "CardName": "2level9_2.png"
+    },
+    {
+      "SectionID": "30035c6c-a552-4563-a21a-234ed69bd3dd",
+      "SubChapterID": "639f0bad-e2ca-4646-96a0-acbb613879b7",
+      "CardName": "2level9_3.png,2level9_4.png,2level9_5.png,2level9_6.png,2level9_7_1.png,2level9_7.png,2level9_8.png"
+    },
+    {
+      "SectionID": "60b5e678-dc00-4f32-9592-4c32d8e637dd",
+      "SubChapterID": "add875be-10e4-49f5-b9bc-a2d8e891a626",
+      "CardName": "2level9_9.png,2level9_10.png,2level9_11_1.png,2level9_11.png"
+    },
+    {
+      "SectionID": "b1462cb8-f602-4c6f-a4e2-6db241d29bd7",
+      "SubChapterID": "e1c7c476-1ca8-4f93-9d4b-53c4f0b0c1d3",
+      "CardName": "2level9_12.png"
+    },
+    {
+      "SectionID": "d770a94c-2eb3-4739-912e-9a3a661fd841",
+      "SubChapterID": "4f55d86c-d6ab-491a-9bb6-b89e5c25057e",
+      "CardName": "2level10_1.png"
+    },
+    {
+      "SectionID": "7a6a5c40-7af6-4674-bd60-66bbba6675d6",
+      "SubChapterID": "d63f68ed-67d5-46cb-8053-852aa2504016",
+      "CardName": "2level10_2.png,2level10_3.png,2level10_4.png"
+    },
+    {
+      "SectionID": "472e7b0b-6767-48b1-b4cc-f38368e2248b",
+      "SubChapterID": "21e659b2-ce98-4e6b-b379-7e6a3ccb90c3",
+      "CardName": "2level10_5.png,2level10_6.png"
+    },
+    {
+      "SectionID": "d6d163f8-bd7c-4e11-bbca-996f428487cc",
+      "SubChapterID": "a6b6398b-fd5e-4ab8-b9d2-09c65e448cea",
+      "CardName": "2level10_7.png,2level10_8.png,2level10_9.png,2level10_10.png,2level10_11.png,2level10_12.png"
+    },
+    {
+      "SectionID": "e46c8a49-7083-4fb5-8f8a-967a46b98122",
+      "SubChapterID": "13f8b421-f7e0-4d30-b6c6-328123c7a395",
+      "CardName": "2level10_13.png,2level10_14.png"
+    },
+    {
+      "SectionID": "68235828-96fc-41dc-a638-5e3a33e8d642",
+      "SubChapterID": "63f213af-b423-47a5-9115-a309d8177c29",
+      "CardName": "2level10_15.png"
+    },
+    {
+      "SectionID": "9e4936af-f73f-4f40-b92b-d6a177a0a00a",
+      "SubChapterID": "d16e591a-ce4d-499e-b9ca-cdae88a93beb",
+      "CardName": "2level7_5.png,2level7_6.png"
+    },
+    {
+      "SectionID": "b815ca31-6044-4b7b-9333-18361fa26bfd",
+      "SubChapterID": "865139fa-e9a7-4842-b756-a0ac05666c05",
+      "CardName": "2level7_11.png,2level7_12.png,2level7_13.png"
+    },
+    {
+      "SectionID": "494d556c-c838-4c38-8180-8534efa73395",
+      "SubChapterID": "31910a7b-2276-48c6-a79e-4502803d0200",
+      "CardName": "2level8_4.png,2level8_5.png,2level8_6.png"
+    },
+    {
+      "SectionID": "e7cfacc0-ca6f-46ea-b041-7181f205e892",
+      "SubChapterID": "4a9fa06e-ce0f-4a42-98c9-e01677e8eda0",
+      "CardName": "2level8_13.png,2level8_14.png,2level8_15.png,2level8_16.png"
+    },
+    {
+      "SectionID": "f425f488-fa03-45fa-bf2b-7f97bc7f17e4",
+      "SubChapterID": "167e67c7-2f47-42e5-8354-f3464dee2604",
+      "CardName": "2level8_17.png,2level8_18.png,2level8_19.png,2level8_20.png,2level8_21.png,2level8_22.png,2level8_23.png,2level8_24.png"
+    },
+    {
+      "SectionID": "7510e943-5438-4d3b-b861-2aeea9a38740",
+      "SubChapterID": "643203bb-3f20-4bd7-87fe-5a69218125c7",
+      "CardName": "2level8_25.png,2level8_26.png,2level8_27.png,2level8_28.png"
+    },
+    {
+      "SectionID": "fea2322c-cf93-48f4-a69c-34e87462745b",
+      "SubChapterID": "faa1d36a-a384-4dfd-a16e-8bb864380164",
+      "CardName": "intro10_1.png"
+    },
+    {
+      "SectionID": "91c6ead3-cc63-42a0-b69e-ab70995dd222",
+      "SubChapterID": "eb6d4371-79b1-479a-93cb-55950ef01142",
+      "CardName": "intro10_2.png"
+    },
+    {
+      "SectionID": "b15578d2-58f1-43d1-9923-e9c74083d00a",
+      "SubChapterID": "8531722f-3ebf-46be-a947-e4bc0fbbf518",
+      "CardName": "intro10_3.png"
+    },
+    {
+      "SectionID": "6bb42252-2277-4181-ab64-b249cd88d63b",
+      "SubChapterID": "c4f1d176-887a-4753-8d6d-363232f14ff2",
+      "CardName": "intro10_4.png"
+    },
+    {
+      "SectionID": "0be52267-2f55-4428-bf5f-529b6ac14e11",
+      "SubChapterID": "db4a90b7-cd7c-4479-b74c-3f019f6aa8c5",
+      "CardName": "intro11_1.png"
+    },
+    {
+      "SectionID": "38ddc12e-d7ec-4e1f-9caf-d2711ba85be5",
+      "SubChapterID": "034fe06d-be29-46ad-b447-0e7b37b795ca",
+      "CardName": "intro11_2.png,intro11_3.png,intro11_4.png"
+    },
+    {
+      "SectionID": "c1498ba0-67dc-418f-901c-4bde0e9478e0",
+      "SubChapterID": "95597919-1a79-4854-9163-d3e8e708e733",
+      "CardName": "intro11_5.png,intro11_6.png,intro11_7.png"
+    },
+    {
+      "SectionID": "30a4db41-c180-458e-aa4d-3fc4f0d7b561",
+      "SubChapterID": "f5e5062f-d849-4f9b-81f2-106402737bf2",
+      "CardName": "intro12_1.png,intro12_2.png"
+    },
+    {
+      "SectionID": "2b146001-e19d-4855-972c-a4aa1292c3ba",
+      "SubChapterID": "28285005-6356-4c22-a147-73f5e41fb8c7",
+      "CardName": "intro12_3.png"
+    },
+    {
+      "SectionID": "2d0e4301-cde4-464f-ad72-be29c514ddfc",
+      "SubChapterID": "b739e792-a48b-405c-ae1c-2515006efdcd",
+      "CardName": "intro12_4.png"
+    },
+    {
+      "SectionID": "911b17ed-e352-459b-8c84-42de47eb4633",
+      "SubChapterID": "c3499fe5-43de-40a9-802c-287fc00dd438",
+      "CardName": "intro13_1.png,intro13_2.png,intro13_3.png,intro13_4.png"
+    },
+    {
+      "SectionID": "4505f8ad-dec9-464b-b9db-ec785a593bfe",
+      "SubChapterID": "8c1e701d-8c91-4004-9c64-c93880b372b6",
+      "CardName": "intro14_2.png,intro14_3.png,intro14_4.png"
+    },
+    {
+      "SectionID": "fce4e419-db0e-49c4-96fc-ac1b90fd47b1",
+      "SubChapterID": "6ecb5bde-40dd-4b18-b4e5-73ceb33531e6",
+      "CardName": "intro14_1.png"
+    },
+    {
+      "SectionID": "0ec06242-257a-4d4a-8709-9dc8a4847b9e",
+      "SubChapterID": "941806c8-ca3d-4a54-ac06-932774a3c6c6",
+      "CardName": "lvl1_card1.png,lvl1_card2.png,lvl1_card3.png"
+    },
+    {
+      "SectionID": "27601add-15eb-4369-9f12-4aa6513c5ff0",
+      "SubChapterID": "0f2ee986-2500-4eb8-b4bd-3085f5022f3a",
+      "CardName": "lvl1_card4.png,lvl1_card5.png,lvl1_card6.png,lvl1_card7.png,lvl1_card8.png,lvl1_card9.png"
+    },
+    {
+      "SectionID": "52e38757-0bbf-46bd-b5ee-7185545d47be",
+      "SubChapterID": "b8d2169c-1748-4fdc-9df8-e1779951006e",
+      "CardName": "lvl1_card13.png,lvl1_card14.png,lvl1_card15.png,lvl1_card16.png,lvl1_card17.png,lvl1_card18.png,lvl1_card18_1.png,lvl1_card19.png,lvl1_card20.png"
+    },
+    {
+      "SectionID": "d7038fc8-59d1-46ee-9f7e-3b0c85ae0a19",
+      "SubChapterID": "145a3625-b15a-4c96-b99d-03be994465bf",
+      "CardName": "lvl1_card22.png,lvl1_card23.png,lvl1_card24.png,lvl1_card25.png,lvl1_card26.png"
+    },
+    {
+      "SectionID": "f938ab76-e82f-442a-8cb9-0a82285db6ab",
+      "SubChapterID": "e24a3962-398f-425c-88a9-2434e09302f2",
+      "CardName": "lvl1_card27.png,lvl1_card28.png,lvl1_card29.png,lvl1_card30.png,lvl1_card31.png"
+    },
+    {
+      "SectionID": "6757fa79-14b3-46ef-a48d-44301a1d321a",
+      "SubChapterID": "e8b218d4-d85f-426b-be54-51bf8c5b44ea",
+      "CardName": "lvl1_card32.png,lvl1_card33.png,lvl1_card34.png,lvl1_card35.png,lvl1_card36.png,lvl1_card37.png,lvl1_card38.png"
+    },
+    {
+      "SectionID": "7aa8200b-f2b8-45df-8656-0416d6aabde2",
+      "SubChapterID": "c357f32c-3323-4623-92a1-357da389cb21",
+      "CardName": "lvl1_card39.png,lvl1_card40.png"
+    },
+    {
+      "SectionID": "93ebc94b-8e00-47b3-a42e-8275f647c494",
+      "SubChapterID": "e738016d-ee3f-4c87-b418-fa1f0adca020",
+      "CardName": "lvl1_card41.png,lvl1_card42.png,lvl1_card43.png,lvl1_card44.png"
+    },
+    {
+      "SectionID": "65a401de-4f28-482d-a32b-cfda487543ff",
+      "SubChapterID": "0b46fa80-dfd7-49cb-969f-cc2cb1bc1038",
+      "CardName": "lvl1_card45.png,lvl1_card46.png"
+    },
+    {
+      "SectionID": "d0c78d43-f1ad-4897-96d6-2bf4796fbbc6",
+      "SubChapterID": "697ce0d5-93ae-451a-b8d1-e41087837a76",
+      "CardName": "lvl1_card47.png,lvl1_card48.png,lvl1_card49.png,lvl1_card50.png,lvl1_card51.png,lvl1_card52.png,lvl1_card53.png"
+    },
+    {
+      "SectionID": "3d9d040e-dcce-471d-8799-365b3310f2da",
+      "SubChapterID": "9705a14a-26db-49db-af55-29c7b8bca82f",
+      "CardName": "lvl1_card54.png,lvl1_card55.png,lvl1_card56.png,lvl1_card57.png"
+    },
+    {
+      "SectionID": "734125fc-eaaa-48f2-9af9-3e8debb07813",
+      "SubChapterID": "e06cab67-564b-49e9-9d2c-847890f157dc",
+      "CardName": "lvl1_card58.png,lvl1_card59.png"
+    },
+    {
+      "SectionID": "3dfc22d8-582a-4e28-810b-946c5b6e658c",
+      "SubChapterID": "79854610-0bdd-458e-88f3-06b94e4ae113",
+      "CardName": "lvl1_card60.png,lvl1_card61.png,lvl1_card62.png"
+    },
+    {
+      "SectionID": "1ecb7e58-fb60-42ca-b217-6859e72dc343",
+      "SubChapterID": "f84495cc-24d9-4010-bf4a-77e4f2509002",
+      "CardName": "lvl1_card63.png,lvl1_card64.png,lvl1_card65.png,lvl1_card66.png,lvl1_card67.png"
+    },
+    {
+      "SectionID": "5e37d511-5d7f-401d-bafa-6d7e06a8796f",
+      "SubChapterID": "75171986-a223-4b24-8811-629f9242cefe",
+      "CardName": "lvl1_card71.png,lvl1_card72.png"
+    },
+    {
+      "SectionID": "8c158016-39c3-4848-a346-377efdcfb767",
+      "SubChapterID": "8a99e462-6f75-4fbb-bc5c-fc1b94189a6d",
+      "CardName": "lvl1_card21_1.png,lvl1_card21.png"
+    },
+    {
+      "SectionID": "07e98d55-dabd-43ea-a2ae-049310a346e3",
+      "SubChapterID": "5b2b0fd6-e66f-4dee-9b9f-a2ef8fcb3c2d",
+      "CardName": "2level3_1.png"
+    },
+    {
+      "SectionID": "58f0d398-62f9-452a-9d4f-905621241bd9",
+      "SubChapterID": "613443cb-5520-419b-ac7f-6808549e0925",
+      "CardName": "2level3_2.png"
+    },
+    {
+      "SectionID": "9e7a6039-7fb7-441d-a50a-6ceb98e44512",
+      "SubChapterID": "eaa42507-3ed0-499a-97a8-7dba148f2b3b",
+      "CardName": "2level3_3.png"
+    },
+    {
+      "SectionID": "24ce3c86-8214-4374-b8bf-5a680a43c58f",
+      "SubChapterID": "82bd3bfa-f7f8-43cc-afad-eed472e94cf1",
+      "CardName": "2level3_4.png,2level3_5.png"
+    },
+    {
+      "SectionID": "61da9598-b7bf-46d7-b126-6831a30d112c",
+      "SubChapterID": "207723c9-b5b4-4333-9caa-817f12367747",
+      "CardName": "2level3_6.png"
+    },
+    {
+      "SectionID": "cc6089be-345b-40ca-bdc2-e086a9a27847",
+      "SubChapterID": "0d4a6f73-d0ac-4457-bd56-5ea546e6201f",
+      "CardName": "2level3_7.png"
+    },
+    {
+      "SectionID": "bbaba1ee-cda6-4537-8e2f-8eb683888403",
+      "SubChapterID": "8b4cf1cc-296b-445b-b226-36ef3c7d24e3",
+      "CardName": "2level4_1.png,2level4_2.png"
+    },
+    {
+      "SectionID": "408fa43c-49fc-4ebe-b478-c467ac81f5b9",
+      "SubChapterID": "54e00c00-54eb-4682-85ba-3d28816f0695",
+      "CardName": "2level4_3.png"
+    },
+    {
+      "SectionID": "b447c69c-1167-4dad-ab6b-5b5eb357779c",
+      "SubChapterID": "32401003-1c00-48d7-9246-ccdfb16b4434",
+      "CardName": "2level4_4.png,2level4_5.png"
+    },
+    {
+      "SectionID": "a46830ce-8f0f-405b-8680-aaaad68d1499",
+      "SubChapterID": "9ea61a88-131f-49d2-b93d-a0ccd10dc3e3",
+      "CardName": "2level4_6.png"
+    },
+    {
+      "SectionID": "92565d10-3220-4f54-a098-c94e70634cbc",
+      "SubChapterID": "5c9d7725-0114-4ec4-bf1e-345f6ff2162e",
+      "CardName": "2level5_1.png,2level5_2.png,2level5_3.png,2level5_4.png"
+    },
+    {
+      "SectionID": "7f4e72d5-a7ed-490a-ad1e-a351e8b0b994",
+      "SubChapterID": "ff25f967-4b69-4db2-b28b-dba28c818e50",
+      "CardName": "2level5_5.png,2level5_6.png"
+    },
+    {
+      "SectionID": "96426d8d-ac5a-420c-919c-c8caac05f5e6",
+      "SubChapterID": "de0b602f-244b-411d-8a7e-91e4d3a5da43",
+      "CardName": "lvl1_card73.png,lvl1_card74.png,lvl1_card75.png"
+    },
+    {
+      "SectionID": "f1e172ff-6924-4934-9f2a-cc6f32563731",
+      "SubChapterID": "312363f5-2e97-407b-a82d-de9515a65a94",
+      "CardName": "lvl1_card76.png,lvl1_card76_1.png"
+    },
+    {
+      "SectionID": "af295325-9272-4544-9f64-40faad95710d",
+      "SubChapterID": "7b72d39d-3e6d-4cfd-949b-0d1ea670a9a9",
+      "CardName": "lvl1_card81.png,lvl1_card82.png,lvl1_card83.png,lvl1_card84.png,lvl1_card85.png,lvl1_card86.png,lvl1_card87.png,lvl1_card88.png,lvl1_card89.png,lvl1_card90.png,lvl1_card91.png,lvl1_card92.png,lvl1_card93.png,lvl1_card94.png,lvl1_card95.png"
+    },
+    {
+      "SectionID": "937081a7-6e5d-44b1-9fd5-bcedde19de4e",
+      "SubChapterID": "09c0463c-d355-46f4-9aef-a9257ddf8fc2",
+      "CardName": "lvl1_card96.png,lvl1_card97.png,lvl1_card98.png,lvl1_card99.png,lvl1_card100.png,lvl1_card101.png"
+    },
+    {
+      "SectionID": "78add887-b339-4c97-9d0f-78c81d2e5845",
+      "SubChapterID": "88544ffc-f44e-430b-b9d0-e5ab4846a27d",
+      "CardName": "lvl1_card102.png,lvl1_card103.png"
+    },
+    {
+      "SectionID": "1e1a9e16-9fac-40de-a68e-0cb44e385699",
+      "SubChapterID": "fb02e777-b920-422d-98bc-b5943cf0999e",
+      "CardName": "lvl1_card104.png,lvl1_card105.png,lvl1_card106.png"
+    },
+    {
+      "SectionID": "14e70494-5660-4e7f-b344-4b2751830567",
+      "SubChapterID": "b5c19d67-20b7-4844-95b4-812115333ec3",
+      "CardName": "lvl1_card107.png,lvl1_card108.png,lvl1_card109.png,lvl1_card110.png,lvl1_card111.png,lvl1_card112.png"
+    },
+    {
+      "SectionID": "c80a270f-ee02-4a83-995a-19a1a91fadb0",
+      "SubChapterID": "e8972844-c417-4f2e-8dab-67fe54e9c775",
+      "CardName": "lvl1_card113.png,lvl1_card114.png,lvl1_card115.png,lvl1_card116.png"
+    },
+    {
+      "SectionID": "41fddd85-34b5-42fe-b2a5-74aa0fed77cc",
+      "SubChapterID": "d2c4aebf-394f-4f92-b708-21c82e23b737",
+      "CardName": "lvl1_card117.png,lvl1_card118.png,lvl1_card119.png,lvl1_card120.png,lvl1_card121.png,lvl1_card122.png,lvl1_card123.png,lvl1_card124.png"
+    },
+    {
+      "SectionID": "8ba10aef-daec-4db8-a5f7-ce3bae00ee1f",
+      "SubChapterID": "afd43ef3-e599-429f-bdcc-e1672dcdbdf0",
+      "CardName": "lvl1_card125.png,lvl1_card126.png,lvl1_card127.png"
+    },
+    {
+      "SectionID": "455762f0-8f18-413e-b8a1-a1b54b4a57f6",
+      "SubChapterID": "9ad8989a-2a2e-4c82-afd2-afa314baf54a",
+      "CardName": "2level7_7.png,2level7_8.png,2level7_9.png,2level7_10.png"
+    },
+    {
+      "SectionID": "74650ce8-db78-4051-b6de-67709bb4795d",
+      "SubChapterID": "76bea93f-b58c-43f8-974e-cb87c3b4c430",
+      "CardName": "2level8_7.png,2level8_8.png"
+    },
+    {
+      "SectionID": "6be8cfd2-a63c-40c8-a546-2f3a8802f63f",
+      "SubChapterID": "0b24b0f0-93f6-4130-aa04-bf63f6e4804f",
+      "CardName": "2level8_9.png,2level8_10.png,2level8_11.png,2level8_12.png"
+    },
+    {
+      "SectionID": "0b24d338-ea18-4a8e-93ac-b414c613c3b7",
+      "SubChapterID": "893caa16-0a3a-4d49-b4cd-d4b7051d90dd",
+      "CardName": "lvl1_card128.png,lvl1_card129.png,lvl1_card130.png"
+    },
+    {
+      "SectionID": "c31e51ae-8ecf-4932-9516-94e26f56e80f",
+      "SubChapterID": "b0a6d863-043e-4f9f-a76b-724961072f1d",
+      "CardName": "lvl1_card131.png"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.CardListActivity"
+    android:background="@color/colorFragment_bg">
+
+    <com.google.android.material.appbar.AppBarLayout
+            android:id="@+id/appbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+            <include
+                android:id="@+id/toolbar"
+                layout="@layout/toolbar" />
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rvCarousel"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:orientation="vertical"
+                app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+                tools:listitem="@layout/layout_item_carousel_card"/>
+
+            <LinearLayout
+                android:id="@+id/layout_mp3player"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/image_size_80dp"
+                android:background="@color/colorPrimary"
+                android:orientation="horizontal"
+                app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btnPlay"
+                    android:layout_width="@dimen/image_size_60dp"
+                    android:layout_height="@dimen/image_size_60dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="@dimen/margin_16dp"
+                    android:src="@drawable/play_button" />
+
+                <androidx.appcompat.widget.AppCompatImageView
+                    android:id="@+id/btnPause"
+                    android:layout_width="@dimen/image_size_60dp"
+                    android:layout_height="@dimen/image_size_60dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginStart="@dimen/margin_16dp"
+                    android:src="@drawable/pause_button"
+                    android:visibility="gone"/>
+
+                <SeekBar
+                    android:id="@+id/seekBar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_marginLeft="@dimen/margin_16dp"
+                    android:layout_marginRight="@dimen/margin_16dp"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
